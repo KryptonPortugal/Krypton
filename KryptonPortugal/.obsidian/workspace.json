@@ -9,6 +9,8 @@
         "children": [
           {
             "id": "b5d794fa29643732",
+<<<<<<< Updated upstream
+=======
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,11 +33,37 @@
           },
           {
             "id": "0a0c17601b8a8497",
+>>>>>>> Stashed changes
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teste.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+<<<<<<< Updated upstream
+          },
+          {
+            "id": "234084ee4f80766d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0a0c17601b8a8497",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+=======
+>>>>>>> Stashed changes
           }
         ],
         "currentTab": 2
@@ -104,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teste.md"
+              }
             }
           }
         ]
@@ -164,7 +196,10 @@
   },
   "active": "0a0c17601b8a8497",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Teste.md",
+=======
+>>>>>>> Stashed changes
     "Contactos/Contactos.md",
     "Contactos/GitHub.md",
     "Contactos/LinkedIn.md",
@@ -173,6 +208,7 @@
     "Contactos/Instagram.md",
     "Contactos/Twitter.md",
     "Contactos/Discord.md",
-    "Conteudos Matemáticos.md"
+    "Conteudos Matemáticos.md",
+    "Estratégia.md"
   ]
 }
