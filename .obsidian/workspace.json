@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "85e8242399b4a435",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47dc5e6d0882b4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b19517524fa5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KryptonPortugal/Contactos/Contactos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f64d7ba8814d5b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KryptonPortugal/Contactos/Instagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2733cafa6ad249d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "618885f5c521cdf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "96eb4a69e68a34ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6898b19184a4d8e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15b0780bb83f7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "159e4a2aa7e77480",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7de6964762b40646",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3507c43c4924f13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d31241f78087051a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KryptonPortugal/Contactos/Instagram.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43e07138c15de0c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "KryptonPortugal/Contactos/Instagram.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04df0b134c4b2880",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9475a367a9ec385",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KryptonPortugal/Contactos/Instagram.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f64d7ba8814d5b77",
+  "lastOpenFiles": [
+    "KryptonPortugal/Contactos/Contactos.md",
+    "KryptonPortugal/Contactos/Twitter.md",
+    "KryptonPortugal/Contactos/Discord.md",
+    "README.md"
+  ]
+}
