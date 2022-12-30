@@ -8,26 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b14f2da1124ffddd",
+            "id": "234084ee4f80766d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "b5d794fa29643732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Página de Informações.md",
+                "file": "Contactos/Contactos.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4763003f8818a541",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Página de Informações.md",
+                "file": "Contactos/Contactos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Página de Informações.md",
+                "file": "Contactos/Contactos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Página de Informações.md"
+                "file": "Contactos/Contactos.md"
               }
             }
           }
@@ -155,8 +158,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "b14f2da1124ffddd",
+  "active": "b5d794fa29643732",
   "lastOpenFiles": [
-    "Página de Informações.md"
+    "Contactos/Contactos.md",
+    "Contactos/GitHub.md",
+    "Contactos/LinkedIn.md",
+    "Contactos/Email.md",
+    "Contactos/TikTok.md",
+    "Contactos/Instagram.md",
+    "Contactos/Twitter.md",
+    "Contactos/Discord.md",
+    "Conteudos Matemáticos.md",
+    "Estratégia.md"
   ]
 }
