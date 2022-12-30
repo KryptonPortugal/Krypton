@@ -4,19 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a3592a40945ace",
+        "id": "8aff844eb0b43ad4",
         "type": "tabs",
         "children": [
-          {
-            "id": "234084ee4f80766d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
           {
             "id": "b5d794fa29643732",
             "type": "leaf",
@@ -27,6 +17,16 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "234084ee4f80766d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ],
@@ -96,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contactos/Contactos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contactos/Contactos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Contactos/Contactos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,7 +154,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "b5d794fa29643732",
+  "active": "234084ee4f80766d",
   "lastOpenFiles": [
     "Contactos/Contactos.md",
     "Contactos/GitHub.md",
