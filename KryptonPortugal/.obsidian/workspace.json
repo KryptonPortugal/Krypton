@@ -4,9 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8aff844eb0b43ad4",
+        "id": "e4a3592a40945ace",
         "type": "tabs",
         "children": [
+          {
+            "id": "234084ee4f80766d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
           {
             "id": "b5d794fa29643732",
             "type": "leaf",
@@ -17,28 +27,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "a4016d603714aa04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conteudo.md",
-                "mode": "source",
-                "source": false
-              }
-=======
-            "id": "234084ee4f80766d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
->>>>>>> 181705b18845ba22b7f0502c74cf177ed6e1b8a9
             }
           },
           {
@@ -116,13 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-                "file": "conteudo.md",
-=======
->>>>>>> 181705b18845ba22b7f0502c74cf177ed6e1b8a9
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,13 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-                "file": "conteudo.md",
-=======
->>>>>>> 181705b18845ba22b7f0502c74cf177ed6e1b8a9
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
               "state": {}
-=======
-<<<<<<< HEAD
-              "state": {
-                "file": "conteudo.md"
-              }
-=======
-              "state": {}
->>>>>>> 181705b18845ba22b7f0502c74cf177ed6e1b8a9
->>>>>>> Stashed changes
             }
           }
         ]
@@ -198,16 +162,9 @@
       "publish:Publish changes": false
     }
   },
-<<<<<<< Updated upstream
   "active": "a4016d603714aa04",
-=======
-<<<<<<< HEAD
-  "active": "a4016d603714aa04",
-=======
-  "active": "234084ee4f80766d",
->>>>>>> 181705b18845ba22b7f0502c74cf177ed6e1b8a9
->>>>>>> Stashed changes
   "lastOpenFiles": [
+    "Teste.md",
     "conteudo.md",
     "Contactos/Contactos.md",
     "Contactos/GitHub.md",
@@ -216,7 +173,6 @@
     "Contactos/TikTok.md",
     "Contactos/Instagram.md",
     "Contactos/Twitter.md",
-    "Contactos/Discord.md",
-    "Conteudos Matemáticos.md"
+    "Contactos/Discord.md"
   ]
 }
