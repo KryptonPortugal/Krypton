@@ -1,1 +1,1 @@
-A tua mãe!!!
+A teu pai!!!
