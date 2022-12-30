@@ -4,19 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a3592a40945ace",
+        "id": "8aff844eb0b43ad4",
         "type": "tabs",
         "children": [
-          {
-            "id": "234084ee4f80766d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
           {
             "id": "b5d794fa29643732",
             "type": "leaf",
@@ -30,7 +20,17 @@
             }
           },
           {
-            "id": "a4016d603714aa04",
+            "id": "234084ee4f80766d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0a0c17601b8a8497",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,9 +162,9 @@
       "publish:Publish changes": false
     }
   },
-  "active": "a4016d603714aa04",
+  "active": "0a0c17601b8a8497",
   "lastOpenFiles": [
-    "conteudo.md",
+    "Teste.md",
     "Contactos/Contactos.md",
     "Contactos/GitHub.md",
     "Contactos/LinkedIn.md",
