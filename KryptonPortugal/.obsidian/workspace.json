@@ -4,9 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8aff844eb0b43ad4",
+        "id": "e4a3592a40945ace",
         "type": "tabs",
         "children": [
+          {
+            "id": "234084ee4f80766d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
           {
             "id": "b5d794fa29643732",
             "type": "leaf",
@@ -20,17 +30,15 @@
             }
           },
           {
-            "id": "234084ee4f80766d",
+            "id": "a4016d603714aa04",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,8 +162,9 @@
       "publish:Publish changes": false
     }
   },
-  "active": "234084ee4f80766d",
+  "active": "a4016d603714aa04",
   "lastOpenFiles": [
+    "conteudo.md",
     "Contactos/Contactos.md",
     "Contactos/GitHub.md",
     "Contactos/LinkedIn.md",
@@ -164,7 +173,6 @@
     "Contactos/Instagram.md",
     "Contactos/Twitter.md",
     "Contactos/Discord.md",
-    "Conteudos Matemáticos.md",
-    "Estratégia.md"
+    "Conteudos Matemáticos.md"
   ]
 }
