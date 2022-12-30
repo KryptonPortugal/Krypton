@@ -6,6 +6,7 @@ canais
 comunicacao
 com
 de
+desktop
 Twitter
 TikTok
 Instagram
@@ -13,3 +14,12 @@ Discord
 LinkedIn
 kryptonportugal
 gmail
+git
+Ol
+fatal
+show
+ref
+refs
+bad
+tags
+ini
