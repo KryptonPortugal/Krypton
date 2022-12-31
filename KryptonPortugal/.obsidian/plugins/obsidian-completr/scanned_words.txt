@@ -2,6 +2,7 @@ Krypton
 Portugal
 atualmente
 possui
+pai
 canais
 comunicacao
 com
@@ -22,4 +23,5 @@ ref
 refs
 bad
 tags
+teu
 ini

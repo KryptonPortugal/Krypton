@@ -28,21 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a4016d603714aa04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conteudo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conteudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conteudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conteudo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,7 +154,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "a4016d603714aa04",
+  "active": "9cd66b0c5c317bd1",
   "lastOpenFiles": [
     "Teste.md",
     "conteudo.md",
