@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "b5d794fa29643732",
+            "id": "16b586006f9c9122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contactos/Contactos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4016d603714aa04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conteudo.md",
+                "file": "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Prática/Exposicoes Práticas/Exposicao Prática LTC em 01-01-2023 de Tiago Veríssimo 00.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "right": {
     "id": "b9d7f7e44f452c65",
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conteudo.md",
+                "file": "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Prática/Exposicoes Práticas/Exposicao Prática LTC em 01-01-2023 de Tiago Veríssimo 00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conteudo.md",
+                "file": "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Prática/Exposicoes Práticas/Exposicao Prática LTC em 01-01-2023 de Tiago Veríssimo 00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conteudo.md"
+                "file": "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Prática/Exposicoes Práticas/Exposicao Prática LTC em 01-01-2023 de Tiago Veríssimo 00.md"
               }
             }
           }
@@ -170,17 +158,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "a4016d603714aa04",
+  "active": "16b586006f9c9122",
   "lastOpenFiles": [
-    "Teste.md",
-    "conteudo.md",
-    "Contactos/Contactos.md",
-    "Contactos/GitHub.md",
-    "Contactos/LinkedIn.md",
-    "Contactos/Email.md",
-    "Contactos/TikTok.md",
-    "Contactos/Instagram.md",
-    "Contactos/Twitter.md",
-    "Contactos/Discord.md"
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Teoria/Exposicoes Teóricas/Exposicao Teorica LTC em 01-01-2023 de Tiago Veríssimo 00.md",
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Prática/Exposicoes Práticas/Exposicao Prática LTC em 01-01-2023 de Tiago Veríssimo 00.md",
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Teoria/Exposicao Teórica - Lógica e Teoria dos Conjuntos - 10 Ano.md",
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/11 ANO/EST/Estatística - 11 Ano.md",
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/11 ANO/11 Ano.md",
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/11 ANO/FRVR/Funcoes Reais de Variável Real - 11 Ano.md",
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/11 ANO/SUC/Sucessões - 11 Ano.md",
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/11 ANO/GA/Geometria Analítica - 11 Ano.md",
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/11 ANO/TRI/Trigonometria e Funcões Trigonométricas - 11 Ano.md",
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/Matemática A.md"
   ]
 }

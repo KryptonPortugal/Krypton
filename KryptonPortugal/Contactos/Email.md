@@ -1,1 +1,0 @@
-kryptonportugal@gmail.com
