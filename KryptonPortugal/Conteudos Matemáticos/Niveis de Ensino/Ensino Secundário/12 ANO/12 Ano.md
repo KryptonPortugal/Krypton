@@ -6,6 +6,8 @@
 
 ## [[Funcões Reais de Variável Real - 12 Ano]]
 
+## [[Trigonometria e Funcoes Trigonométricas - 12 Ano]]
+
 ## [[Funcões Exponenciais e Funcões Logarítmicas - 12 Ano]]
 
 ## [[Primitivas e Cálculo Integral - 12 Ano]]

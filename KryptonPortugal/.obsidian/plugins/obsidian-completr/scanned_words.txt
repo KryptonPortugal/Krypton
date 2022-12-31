@@ -13,6 +13,7 @@ pode
 por
 pessoa
 para
+pico
 canais
 comunicacao
 com
@@ -68,6 +69,7 @@ ensinosecundario
 os
 niveis
 nivel
+neste
 Anos
 Ano
 matem
@@ -78,3 +80,7 @@ Email
 GitHub
 licenciatura
 que
+Funcoes
+Reais
+Real
+Variavel
