@@ -1,1 +1,0 @@
-https://www.linkedin.com/company/krypton-portugal/?viewAsMember=true
