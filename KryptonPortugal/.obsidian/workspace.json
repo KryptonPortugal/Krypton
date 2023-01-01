@@ -23,13 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/ALG/Álgebra - 10 Ano.md",
+                "file": "Conteudos Matemáticos/Conteudos Matemáticos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1bc01cdab6edc39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecossistema Krypton.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "b9d7f7e44f452c65",
@@ -95,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ecossistema Krypton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ecossistema Krypton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ecossistema Krypton.md"
+              }
             }
           }
         ]
@@ -153,8 +171,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "234084ee4f80766d",
+  "active": "d1bc01cdab6edc39",
   "lastOpenFiles": [
+    "Estratégia/Plano de Ação.md",
+    "Conteudos Matemáticos/Conteudos Matemáticos.md",
     "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/ALG/Álgebra - 10 Ano.md",
     "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/11 ANO/11 Ano.md",
     "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/Matemática A.md",
@@ -162,8 +182,6 @@
     "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/12 ANO/12 Ano.md",
     "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/12 ANO/TRI/Trigonometria e Funcoes Trigonométricas - 12 Ano.md",
     "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/12 ANO/FEL/Funcões Exponenciais e Funcões Logarítmicas - 12 Ano.md",
-    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/12 ANO/CC/Cálculo Combinatório - 12 Ano.md",
-    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/12 ANO/PCI/Primitivas e Cálculo Integral - 12 Ano.md",
-    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/12 ANO/FRVR/Funcões Reais de Variável Real - 12 Ano.md"
+    "Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/12 ANO/CC/Cálculo Combinatório - 12 Ano.md"
   ]
 }
