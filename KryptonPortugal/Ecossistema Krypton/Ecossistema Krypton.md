@@ -11,7 +11,7 @@ O projeto Krypton pretende implementar uma filosofia *Open-Source* na passagem d
 
 O ecossistema Krypton pode ser colocado numa equacao matemática
 
-$$\text{Ecossistema Krypton} = \text{Open Source} + \text{Redes Sociais} + \text{Conhecimento}$$
+$$\text{Ecossistema Krypton} = \text{Open Source} + \text{Redes Sociais} + \text{Conhecimento} $$
 
 Explicamos o que cada componente significa:
 

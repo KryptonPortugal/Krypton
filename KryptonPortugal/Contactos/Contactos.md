@@ -1,4 +1,4 @@
-Krypton Portugal atualmente possui 6 canais de comunicacao:
+O Krypton Portugal atualmente possui 6 canais de comunicacao:
 
 ### Twitter 
 https://twitter.com/KryptonPortugal

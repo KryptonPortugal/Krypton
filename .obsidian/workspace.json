@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KryptonPortugal/Contactos/Contactos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d603923bccaaacd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KryptonPortugal/Estratégia/Plano de Ação.md",
+                "file": "KryptonPortugal/Equipa/Sobre Nós.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f96e6461420e7f92",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KryptonPortugal/Estratégia/Plano de Ação.md",
+                "file": "KryptonPortugal/Equipa/Sobre Nós.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KryptonPortugal/Estratégia/Plano de Ação.md",
+                "file": "KryptonPortugal/Equipa/Sobre Nós.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KryptonPortugal/Estratégia/Plano de Ação.md"
+                "file": "KryptonPortugal/Equipa/Sobre Nós.md"
               }
             }
           }
@@ -172,13 +167,14 @@
       "publish:Publish changes": false
     }
   },
-  "active": "d603923bccaaacd5",
+  "active": "34f863ccc1356211",
   "lastOpenFiles": [
+    "KryptonPortugal/Ecossistema Krypton/Ecossistema Krypton.md",
     "KryptonPortugal/Equipa/Tiago Veríssimo e Duarte Medeiros.md",
     "KryptonPortugal/Equipa/Sobre Nós.md",
-    "KryptonPortugal/Ecossistema Krypton/Ecossistema Krypton.md",
-    "KryptonPortugal/Ecossistema Krypton/Participar no Ecossistema.md",
     "KryptonPortugal/Contactos/Contactos.md",
+    "KryptonPortugal/Estratégia/Plano de Ação.md",
+    "KryptonPortugal/Ecossistema Krypton/Participar no Ecossistema.md",
     "README.md",
     "KryptonPortugal/Conteudos Matemáticos/Conteudos Matemáticos.md",
     "KryptonPortugal/Conteudos Matemáticos/Niveis de Ensino/Ensino Básico/Ensino Básico.md"

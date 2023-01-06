@@ -4,7 +4,7 @@ Página de introdução aos fundadores do projeto Krypton.
 
 LinkedIn : https://www.linkedin.com/in/tiagoverissimo/
 
-#### Introducão rápida
+#### Introdução rápida
 Olá, eu sou o Tiago, neste momento sou estudante de mestrado em matemática, fora do mestrado desenvolvo o Krypton assim como estudo tópicos científicos e matemáticos externos á minha educacão.
 Sou uma das pessoas que está responsável por todas as frentes do Krypton.
 
@@ -28,7 +28,7 @@ Para mim o futuro do Krypton é este passar a ser uma plataforma onde as pessoas
 
 LinkedIn: https://www.linkedin.com/in/duarte-medeiros-a3166618b/
 
-#### Introducão rápida
+#### Introdução rápida
 Olá, eu sou o Duarte, um estudante de mestrado e apaixonado por matemática! Estou a ajudar o Tiago na idealização, na construção e no desenvolvimento do Krypton.
 
 #### Funcão no projeto
