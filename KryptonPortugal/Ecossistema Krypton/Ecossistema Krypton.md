@@ -1,11 +1,11 @@
 Esta página pretende explicar o que é o ecossistema Krypton.
 
-## O que é Open-Source?
+### O que é Open-Source?
 
 *Open-Source* refere-se a um tipo de software cujo código-fonte está disponível ao público, o que significa que qualquer pessoa pode visualizar, modificar e distribuir o código-fonte para qualquer finalidade. Isso contrasta com o software proprietário, em que o código-fonte é normalmente privado e disponível apenas para a empresa que o possui.
 O software *Open-Source* geralmente é desenvolvido por comunidades de voluntários, que trabalham juntos para melhorar o software e compartilhar suas modificações com outras pessoas. Essa abordagem colaborativa pode levar a um rápido desenvolvimento e inovação tais abordangens resultaram na criação de muitos projetos de software amplamente utilizados e conceituados.
 
-## O que é o ecossistema Krypton?
+### O que é o ecossistema Krypton?
 
 O projeto Krypton pretende implementar uma filosofia *Open-Source* na passagem de conhecimentos utilizando métodos digitas e humanos para o conseguir.
 
