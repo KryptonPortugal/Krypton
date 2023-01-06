@@ -1,16 +1,16 @@
-# Krypton Portugal atualmente possui 5 canais de comunicacao:
+Krypton Portugal atualmente possui 6 canais de comunicacao:
 
-# Twitter 
+### Twitter 
 https://twitter.com/KryptonPortugal
-# Instagram
+### Instagram
 https://www.instagram.com/kryptonportugal/
-# Discord
+### Discord
 https://discord.gg/FGwdPmAXes
-# TikTok
+### TikTok
 https://www.tiktok.com/@kryptonportugal
-# LinkedIn
+### LinkedIn
 https://www.linkedin.com/company/krypton-portugal/?viewAsMember=true
-# Email
+### Email
 kryptonportugal@gmail.com
-# GitHub
+### GitHub
 https://github.com/KryptonPortugal/KryptonPortugal

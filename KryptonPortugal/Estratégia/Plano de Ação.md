@@ -1,11 +1,7 @@
-### Visão
-O Krypton Portugal pretende implementar o [[Ecossistema Krypton]] onde existe uma colaboracao de divulgacao de conteudo educativo em formato *Open-Source* na lingua portuguesa.
-
-### Porque ?
+### Objetivo
 O Krypton crê que hoje em dia existem muitas inefeciencias no processo de passagem de conhecimentos, custos injustificados e acima de tudo uma grande falta de colaboracao e dinamismo na divulgacao e criacao de conteudos educacionais a nivel nacional.
 
-
-### Como ?
+### Solucao
 Para alcancar tal objetivo, o Krypton Portugal pretende obter primeiramente um crescimento nacional estável, para isso vamos recorrer ás redes sociais para haver uma criacão de tracão na plataforma tanto de criadores como de consumidores.
 Como qualquer projeto *Open-Source* o Krypton Portugal fica mais forte quanto mais intervencão ativa houver por parte da comunidade, sendo assim o Krypton Portugal pretende atrair pessoas com várias competências, sendo estas:
 
