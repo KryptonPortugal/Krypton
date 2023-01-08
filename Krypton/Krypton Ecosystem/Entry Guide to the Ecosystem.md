@@ -1,0 +1,1 @@
+This page is being written, it is intended to be an extensive tutorial on how to integrate the Krypton project into various functions.

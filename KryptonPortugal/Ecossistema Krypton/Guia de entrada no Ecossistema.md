@@ -1,1 +1,0 @@
-Esta página encontra-se a ser escrita, pretende ser um tutorial extensivo de como integrar o projeto Krypton em diversas funções.

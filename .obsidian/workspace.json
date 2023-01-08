@@ -13,38 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KryptonPortugal/Estratégia/Plano de Ação.md",
+                "file": "Krypton/Strategy/Action Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "23d92bc16e1a136d",
+            "id": "e654a4e0a7219859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KryptonPortugal/Ecossistema Krypton/Guia de entrada no Ecossistema.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e771e3398df11ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KryptonPortugal/Suportar o Krypton/Suportar o Krypton.md",
+                "file": "Krypton/Support Krypton/Support Krypton.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KryptonPortugal/Suportar o Krypton/Suportar o Krypton.md",
+                "file": "Krypton/Support Krypton/Support Krypton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KryptonPortugal/Suportar o Krypton/Suportar o Krypton.md",
+                "file": "Krypton/Support Krypton/Support Krypton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KryptonPortugal/Suportar o Krypton/Suportar o Krypton.md"
+                "file": "Krypton/Support Krypton/Support Krypton.md"
               }
             }
           }
@@ -172,17 +160,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "1e771e3398df11ce",
+  "active": "e654a4e0a7219859",
   "lastOpenFiles": [
-    "KryptonPortugal/Ecossistema Krypton/Guia de entrada no Ecossistema.md",
-    "KryptonPortugal/Suportar o Krypton/Suportar o Krypton.md",
-    "KryptonPortugal/Ecossistema Krypton/Ecossistema.md",
-    "KryptonPortugal/Estratégia/Plano de Ação.md",
-    "KryptonPortugal/Equipa/Tiago Veríssimo e Duarte Medeiros.md",
-    "KryptonPortugal/Equipa/Sobre Nós.md",
-    "KryptonPortugal/Ecossistema Krypton/Ecossistema Krypton.md",
-    "KryptonPortugal/Contactos/Contactos.md",
-    "KryptonPortugal/Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Teoria/Exposicoes Teóricas/Exposicao Teorica LTC em 01-01-2023 de Tiago Veríssimo !0001 00.md",
-    "KryptonPortugal/Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/Ensino Secundário.md"
+    "Krypton/Strategy/Action Plan.md",
+    "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
+    "Krypton/Krypton Ecosystem/Entry Guide to the Ecosystem.md",
+    "Krypton/FAQ/FAQ.md",
+    "Krypton/Contacts/Contacts.md",
+    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
+    "Krypton/About us/About us.md",
+    "Krypton/Support Krypton/Support Krypton.md",
+    "Krypton/Conteudos Matemáticos/Conteudos Matemáticos.md",
+    "Tiago Veríssimo and Duarte Medeiros.md"
   ]
 }
