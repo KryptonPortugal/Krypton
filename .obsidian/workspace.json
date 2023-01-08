@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34f863ccc1356211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krypton/Strategy/Action Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e654a4e0a7219859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Krypton/Support Krypton/Support Krypton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "286a3e5abd90104e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krypton/FAQ/FAQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Support Krypton/Support Krypton.md",
+                "file": "Krypton/FAQ/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Support Krypton/Support Krypton.md",
+                "file": "Krypton/FAQ/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Support Krypton/Support Krypton.md"
+                "file": "Krypton/FAQ/FAQ.md"
               }
             }
           }
@@ -160,17 +160,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "e654a4e0a7219859",
+  "active": "286a3e5abd90104e",
   "lastOpenFiles": [
+    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
+    "Krypton/Mathematical Content/Mathematical Content.md",
+    "Krypton/Support Krypton/Support Krypton.md",
     "Krypton/Strategy/Action Plan.md",
     "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
     "Krypton/Krypton Ecosystem/Entry Guide to the Ecosystem.md",
     "Krypton/FAQ/FAQ.md",
     "Krypton/Contacts/Contacts.md",
-    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
     "Krypton/About us/About us.md",
-    "Krypton/Support Krypton/Support Krypton.md",
-    "Krypton/Conteudos Matemáticos/Conteudos Matemáticos.md",
-    "Tiago Veríssimo and Duarte Medeiros.md"
+    "Krypton/Conteudos Matemáticos/Conteudos Matemáticos.md"
   ]
 }
