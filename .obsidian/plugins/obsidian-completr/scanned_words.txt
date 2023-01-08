@@ -69,8 +69,11 @@ following
 functions
 funds
 fees
+file
+fact
 Krypton
 Knowledge
+KryptonPortugal
 um
 uma
 utilizacao
@@ -233,6 +236,7 @@ publishes
 plans
 previous
 parties
+profile
 Open
 Onde
 Os
@@ -382,6 +386,7 @@ contribute
 could
 consider
 cause
+collaborate
 de
 do
 da
@@ -661,6 +666,7 @@ attract
 auxiliary
 allocate
 address
+appears
 Atualmente
 Adicionais
 Ajudo
@@ -673,6 +679,9 @@ Apoiando
 Additional
 Auxiliary
 All
+Areas
+Applied
+Ask
 vai
 vertentes
 veis
@@ -771,6 +780,8 @@ resort
 responsibility
 reflects
 relation
+repository
+reach
 matem
 managers
 mais
@@ -996,6 +1007,8 @@ should
 specific
 skill
 services
+special
+started
 ximo
 xima
 ximas
@@ -1129,6 +1142,7 @@ learning
 lack
 level
 look
+looking
 web
 what
 whose
@@ -1155,6 +1169,7 @@ without
 which
 works
 whole
+working
 Vis
 Ver
 Verissimo
@@ -1179,6 +1194,8 @@ Portuguese
 Personal
 Persons
 People
+Pure
+Pronouns
 Equipa
 Este
 Estamos
@@ -1269,6 +1286,8 @@ Hello
 High
 Higher
 How
+Hi
+Here
 Faculdade
 Fun
 Func

@@ -2,6 +2,6 @@ This is the main page
 
 ## Areas of mathematics
 
-### Pure mathematics
+### [[Pure Mathematics]]
 
-### Applied mathematics
+### [[Applied Mathematics]]

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/FAQ/FAQ.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/FAQ/FAQ.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/FAQ/FAQ.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/FAQ/FAQ.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "286a3e5abd90104e",
   "lastOpenFiles": [
-    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
     "Krypton/Mathematical Content/Mathematical Content.md",
+    "Krypton/Mathematical Content/Pure Mathematics/Pure Mathematics.md",
+    "Krypton/Mathematical Content/Applied Mathematics/Applied Mathematics.md",
+    "Krypton/FAQ/FAQ.md",
+    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
     "Krypton/Support Krypton/Support Krypton.md",
     "Krypton/Strategy/Action Plan.md",
     "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
     "Krypton/Krypton Ecosystem/Entry Guide to the Ecosystem.md",
-    "Krypton/FAQ/FAQ.md",
-    "Krypton/Contacts/Contacts.md",
-    "Krypton/About us/About us.md",
-    "Krypton/Conteudos Matemáticos/Conteudos Matemáticos.md"
+    "Krypton/Contacts/Contacts.md"
   ]
 }
