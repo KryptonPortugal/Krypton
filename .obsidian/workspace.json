@@ -13,27 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KryptonPortugal/Ecossistema Krypton/Ecossistema Krypton.md",
+                "file": "KryptonPortugal/Estratégia/Plano de Ação.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f96e6461420e7f92",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e86bd94db1344fe4",
+            "id": "23d92bc16e1a136d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KryptonPortugal/Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Teoria/Exposicoes Teóricas/Exposicao Teorica LTC em 01-01-2023 de Tiago Veríssimo !0001 00.md",
+                "file": "KryptonPortugal/Ecossistema Krypton/Guia de entrada no Ecossistema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e771e3398df11ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KryptonPortugal/Suportar o Krypton/Suportar o Krypton.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 687.5026054382324
+    "width": 297.5026054382324
   },
   "right": {
     "id": "72d2293102253a62",
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KryptonPortugal/Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Teoria/Exposicoes Teóricas/Exposicao Teorica LTC em 01-01-2023 de Tiago Veríssimo !0001 00.md",
+                "file": "KryptonPortugal/Suportar o Krypton/Suportar o Krypton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KryptonPortugal/Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Teoria/Exposicoes Teóricas/Exposicao Teorica LTC em 01-01-2023 de Tiago Veríssimo !0001 00.md",
+                "file": "KryptonPortugal/Suportar o Krypton/Suportar o Krypton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KryptonPortugal/Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Teoria/Exposicoes Teóricas/Exposicao Teorica LTC em 01-01-2023 de Tiago Veríssimo !0001 00.md"
+                "file": "KryptonPortugal/Suportar o Krypton/Suportar o Krypton.md"
               }
             }
           }
@@ -168,16 +172,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "e86bd94db1344fe4",
+  "active": "1e771e3398df11ce",
   "lastOpenFiles": [
-    "KryptonPortugal/Ecossistema Krypton/Ecossistema Krypton.md",
-    "KryptonPortugal/Contactos/Contactos.md",
+    "KryptonPortugal/Ecossistema Krypton/Guia de entrada no Ecossistema.md",
+    "KryptonPortugal/Suportar o Krypton/Suportar o Krypton.md",
+    "KryptonPortugal/Ecossistema Krypton/Ecossistema.md",
+    "KryptonPortugal/Estratégia/Plano de Ação.md",
     "KryptonPortugal/Equipa/Tiago Veríssimo e Duarte Medeiros.md",
     "KryptonPortugal/Equipa/Sobre Nós.md",
-    "KryptonPortugal/Ecossistema Krypton/Participar no Ecossistema.md",
-    "KryptonPortugal/Estratégia/Plano de Ação.md",
-    "README.md",
-    "KryptonPortugal/Conteudos Matemáticos/Conteudos Matemáticos.md",
-    "KryptonPortugal/Conteudos Matemáticos/Niveis de Ensino/Ensino Básico/Ensino Básico.md"
+    "KryptonPortugal/Ecossistema Krypton/Ecossistema Krypton.md",
+    "KryptonPortugal/Contactos/Contactos.md",
+    "KryptonPortugal/Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/10 ANO/LTC/Teoria/Exposicoes Teóricas/Exposicao Teorica LTC em 01-01-2023 de Tiago Veríssimo !0001 00.md",
+    "KryptonPortugal/Conteudos Matemáticos/Niveis de Ensino/Ensino Secundário/Ensino Secundário.md"
   ]
 }

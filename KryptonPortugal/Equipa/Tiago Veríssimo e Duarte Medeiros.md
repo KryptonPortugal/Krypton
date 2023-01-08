@@ -5,7 +5,7 @@ Página de introdução aos fundadores do projeto Krypton.
 LinkedIn : https://www.linkedin.com/in/tiagoverissimo/
 
 #### Introdução rápida
-Olá, eu sou o Tiago, neste momento sou estudante de mestrado em matemática, fora do mestrado desenvolvo o Krypton assim como estudo tópicos científicos e matemáticos externos á minha educacão.
+Olá, eu sou o Tiago, neste momento sou estudante de mestrado em matemática, fora do mestrado desenvolvo o Krypton assim como estudo tópicos científicos e matemáticos externos á minha educação.
 Sou uma das pessoas que está responsável por todas as frentes do Krypton.
 
 #### Função no projeto
@@ -31,7 +31,7 @@ LinkedIn: https://www.linkedin.com/in/duarte-medeiros-a3166618b/
 #### Introdução rápida
 Olá, eu sou o Duarte, um estudante de mestrado e apaixonado por matemática! Estou a ajudar o Tiago na idealização, na construção e no desenvolvimento do Krypton.
 
-#### Funcão no projeto
+#### Função no projeto
 A minha principal função é ajudar o Tiago com ideias para o projeto Krypton. 
 Ajudo, principalmente, no debate de ideias e no estabelecimento de protocolos. 
 Fora da administração, tenciono ajudar no desenvolvimento de conteúdo para ajudar no desenvolvimento do projeto.
@@ -42,7 +42,7 @@ A ideia inicial foi do Tiago e foi ele que me convidou para integrar no projeto.
 Nas várias reuniões que tivemos o Krypton já foi várias coisas, penso, que agora encontrámos uma solução estável, mas apenas o futuro dirá.
 
 
-#### Descricao Pessoal
+#### Descrição Pessoal
 Penso que tenho uma visão diferente do Tiago, talvez um pouco mais péssimista, relativamente a tudo relacionado com o projeto.
 Tenho uma boa capacidade de trabalho que aliada com a motivação certa me permite ser produtivo por um longo período de tempo. 
 Não tenho experiência empresarial e não domino as ferramentas que estamos a utilizar, mas estou disposto a aprender.
@@ -50,10 +50,10 @@ Tenho algum conhecimento em programação, pouco ou nada releventa para o projet
 
 
 #### Porque o Krypton ?
-Penso que o projeto diferencia-se dos outros por ser open source.
-Existem poucas ou muitas poucas ferramentas que permitem aos utlizadores ajudarem na criação e no carregamnteo de ficheiros.
+Penso que o projeto diferencia-se dos outros por ser *open-source*.
+Existem poucas ferramentas que permitem aos utlizadores ajudarem na criação e no carregamento de ficheiros.
 Penso que este aspeto é importante porque ao mesmo tempo que se aprende cria-se uma comunidade de pessoas com interesses comuns. É na criação de laços que nós, humanos, nos tornamos completos.
 
 
 #### Qual o futuro do Krypton ?
-O objetivo é ir desenvolvendo a estrutura e os conteúdos, sem pressa para que estejam com boa qualidade para que o Krypton se torne numa comunidade *self sutained*, de pessoas com o interesse pelo conhecimento e que acima de tudo que  gostam de aprender.
+O objetivo é ir desenvolvendo a estrutura e os conteúdos, sem pressa para que estejam com boa qualidade para que o Krypton se torne numa comunidade *self sutained*, de pessoas com o interesse pelo conhecimento e que acima de tudo que gostam de aprender.
