@@ -5,7 +5,7 @@ Introduction page of the founders of the Krypton project.
 LinkedIn: https://www.linkedin.com/in/tiagoverissimo/
 
 #### Quick intro
-Hello, I'm Tiago, at the moment I'm a master's student in mathematics, outside of the master's degree I develop Krypton as well as study scientific and mathematical topics outside my education.
+Hello, I'm Tiago and I am Portuguese, at the moment I'm a master's student in mathematics, outside of the master's degree I develop Krypton as well as study scientific and mathematical topics outside my education.
 I'm one of the people in charge of all fronts on Krypton.
 
 #### Role in the project
@@ -29,7 +29,7 @@ For me, the future of Krypton is this becoming a platform where people from a ce
 LinkedIn: https://www.linkedin.com/in/duarte-medeiros-a3166618b/
 
 #### Quick intro
-Hello, I'm Duarte, a master's student and passionate about mathematics! I'm helping Tiago in the ideation, construction and development of Krypton.
+Hello, I'm Duarte and I am Portuguese, currently I am a master's student and passionate about mathematics! I'm helping Tiago in the ideation, construction and development of Krypton.
 
 #### Role in the project
 My main role is to help Tiago with ideas for the Krypton project.

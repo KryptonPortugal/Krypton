@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34f863ccc1356211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krypton/Strategy/Action Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e654a4e0a7219859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/Support Krypton/Support Krypton.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Support Krypton/Support Krypton.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Support Krypton/Support Krypton.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Support Krypton/Support Krypton.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,15 +149,15 @@
   },
   "active": "e654a4e0a7219859",
   "lastOpenFiles": [
-    "Krypton/Strategy/Action Plan.md",
+    "Krypton/Support Krypton/Support Krypton.md",
+    "Krypton/Contacts/Contacts.md",
+    "README.md",
+    "Krypton/Mathematical Content/Mathematical Content.md",
     "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
     "Krypton/Krypton Ecosystem/Entry Guide to the Ecosystem.md",
-    "Krypton/FAQ/FAQ.md",
-    "Krypton/Contacts/Contacts.md",
-    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
     "Krypton/About us/About us.md",
-    "Krypton/Support Krypton/Support Krypton.md",
-    "Krypton/Conteudos Matemáticos/Conteudos Matemáticos.md",
-    "Tiago Veríssimo and Duarte Medeiros.md"
+    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
+    "Krypton/Mathematical Content/Applied Mathematics/Applied Mathematics.md",
+    "Krypton/Mathematical Content/Pure Mathematics/Pure Mathematics.md"
   ]
 }

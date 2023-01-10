@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to the Krypton project
 
-<!--
-**KryptonPortugal/KryptonPortugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project has the objective of spreading mathematical contents in an open-source way to everyone.
 
-Here are some ideas to get you started:
+The colaborative structure of the Krypton project is still being made, however you can already check some usefull links of the webpage of the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About the Project.
+https://publish.obsidian.md/kryptonportugal/Krypton/About+us/About+us
+
+## Krypton Ecossystem
+https://publish.obsidian.md/kryptonportugal/Krypton/Krypton+Ecosystem/Krypton+ecosystem
+
+## How to start colaborate 
+https://publish.obsidian.md/kryptonportugal/Krypton/Krypton+Ecosystem/Entry+Guide+to+the+ecosystem
+
+## Action plan
+https://publish.obsidian.md/kryptonportugal/Krypton/Strategy/Action+plan
+
+## Support Krypton
+https://publish.obsidian.md/kryptonportugal/Krypton/Support+Krypton/Support+Krypton
+
+## Contacts
+https://publish.obsidian.md/kryptonportugal/Krypton/Contacts/Contacts
