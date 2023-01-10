@@ -71,6 +71,8 @@ funds
 fees
 file
 fact
+felt
+further
 Krypton
 Knowledge
 KryptonPortugal
@@ -98,6 +100,7 @@ upload
 unjustified
 understand
 useful
+usefull
 projeto
 pretende
 permite
@@ -237,6 +240,8 @@ plans
 previous
 parties
 profile
+premise
+percieve
 Open
 Onde
 Os
@@ -258,6 +263,7 @@ Social
 Since
 Sciences
 Solution
+Support
 criar
 consumo
 conhecimentos
@@ -387,6 +393,10 @@ could
 consider
 cause
 collaborate
+contribution
+colaborative
+check
+colaborate
 de
 do
 da
@@ -472,6 +482,7 @@ decisions
 directions
 donation
 donate
+decide
 em
 explorar
 existe
@@ -682,6 +693,8 @@ All
 Areas
 Applied
 Ask
+About
+Action
 vai
 vertentes
 veis
@@ -700,6 +713,7 @@ volunteers
 various
 very
 ve
+value
 na
 nossa
 nos
@@ -847,6 +861,11 @@ months
 maximum
 money
 maintaining
+model
+maintained
+makes
+make
+made
 tica
 todo
 ticos
@@ -1009,6 +1028,9 @@ skill
 services
 special
 started
+shortly
+sustainability
+see
 ximo
 xima
 ximas
@@ -1118,6 +1140,8 @@ integrate
 immense
 involve
 index
+if
+interaction
 No
 Na
 Nas
@@ -1143,6 +1167,8 @@ lack
 level
 look
 looking
+lets
+links
 web
 what
 whose
@@ -1170,6 +1196,8 @@ which
 works
 whole
 working
+writtten
+webpage
 Vis
 Ver
 Verissimo
@@ -1196,6 +1224,7 @@ Persons
 People
 Pure
 Pronouns
+Project
 Equipa
 Este
 Estamos
@@ -1213,6 +1242,7 @@ ETH
 Eyesight
 Each
 Education
+Ecossystem
 Dado
 Duarte
 Descricao
@@ -1244,6 +1274,7 @@ Consumers
 Creator
 Current
 Cryptocurrency
+Contribution
 Revisores
 Redes
 Role
@@ -1253,6 +1284,7 @@ Matem
 Matematico
 My
 Mathematical
+Monetary
 garantir
 gina
 gerir
@@ -1277,6 +1309,7 @@ goal
 group
 guaranteeing
 get
+guiding
 Background
 Bitcoin
 Bachelor
@@ -1389,6 +1422,7 @@ We
 Where
 Within
 Why
+Welcome
 year
 young
 years
