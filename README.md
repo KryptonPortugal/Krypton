@@ -4,7 +4,7 @@ This project has the objective of spreading mathematical contents in an open-sou
 
 The colaborative structure of the Krypton project is still being made, however you can already check some usefull links of the webpage of the project.
 
-### About the Project.
+## About the Project.
 https://publish.obsidian.md/kryptonportugal/Krypton/About+us/About+us
 
 ## Krypton Ecossystem
