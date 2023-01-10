@@ -76,6 +76,7 @@ further
 functionality
 formal
 functionalities
+fcul
 Krypton
 Knowledge
 KryptonPortugal
@@ -411,6 +412,7 @@ contributing
 commitment
 cases
 contributor
+cnico
 de
 do
 da
@@ -497,6 +499,7 @@ directions
 donation
 donate
 decide
+division
 em
 explorar
 existe
@@ -593,6 +596,7 @@ exposes
 email
 editor
 expose
+exposicao
 aberto
 aberta
 auxiliar
@@ -700,6 +704,7 @@ annouce
 always
 application
 animations
+ams
 Atualmente
 Adicionais
 Ajudo
@@ -1073,6 +1078,7 @@ supposed
 sure
 sake
 strongly
+seccao
 ximo
 xima
 ximas
@@ -1191,6 +1197,7 @@ Na
 Nas
 Nesta
 Networks
+Niveis
 linguagens
 lingua
 leitura
@@ -1214,6 +1221,7 @@ looking
 lets
 links
 like
+licencianturas
 web
 what
 whose
@@ -1331,6 +1339,7 @@ Revisores
 Redes
 Role
 Recruitment
+Ramos
 Managers
 Medeiros
 Matem
@@ -1384,6 +1393,7 @@ Faculty
 For
 Future
 Free
+Fazer
 Universidade
 University
 Lisboa

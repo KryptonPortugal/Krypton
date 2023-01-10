@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e654a4e0a7219859",
+            "id": "217f98391e1c6298",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/Contacts/Contacts.md",
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Secundário/Ensino Secundário.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cfa870bfc8ae754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Secundário/10 ano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "636605eec231c6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Superior/Licenciatura - PT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c7fd4ca5684a04c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Superior/Matemática Avancada - PT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Contacts/Contacts.md",
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Secundário/10 ano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Contacts/Contacts.md",
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Secundário/10 ano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Contacts/Contacts.md"
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Secundário/10 ano.md"
               }
             }
           }
@@ -147,17 +184,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "e654a4e0a7219859",
+  "active": "ff296b7559964780",
   "lastOpenFiles": [
-    "Krypton/FAQ/FAQ.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Secundário/Ensino Secundário.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Superior/Matemática Pura.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Superior/Licenciatura - PT.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Superior/Matemática Avancada - PT.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Superior/Ensino Superior.md",
     "Krypton/Contacts/Contacts.md",
-    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
-    "Krypton/About us/About us.md",
-    "README.md",
-    "Krypton/Support Krypton/Support Krypton.md",
-    "Krypton/Mathematical Content/Mathematical Content.md",
-    "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
-    "Krypton/Krypton Ecosystem/Entry Guide to the Ecosystem.md",
-    "Krypton/Mathematical Content/Applied Mathematics/Applied Mathematics.md"
+    "Krypton/Mathematical Content/Mathematics - Portuguese/Matemática - Português.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Secundário/10 ano.md",
+    "Krypton/Mathematical Content/Mathematics - English/Mathematics - English.md",
+    "Krypton/FAQ/FAQ.md"
   ]
 }
