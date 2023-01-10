@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Krypton/Contacts/Contacts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Krypton/Contacts/Contacts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Krypton/Contacts/Contacts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Krypton/Contacts/Contacts.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "e654a4e0a7219859",
   "lastOpenFiles": [
-    "Krypton/Support Krypton/Support Krypton.md",
+    "Krypton/FAQ/FAQ.md",
     "Krypton/Contacts/Contacts.md",
+    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
+    "Krypton/About us/About us.md",
     "README.md",
+    "Krypton/Support Krypton/Support Krypton.md",
     "Krypton/Mathematical Content/Mathematical Content.md",
     "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
     "Krypton/Krypton Ecosystem/Entry Guide to the Ecosystem.md",
-    "Krypton/About us/About us.md",
-    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
-    "Krypton/Mathematical Content/Applied Mathematics/Applied Mathematics.md",
-    "Krypton/Mathematical Content/Pure Mathematics/Pure Mathematics.md"
+    "Krypton/Mathematical Content/Applied Mathematics/Applied Mathematics.md"
   ]
 }

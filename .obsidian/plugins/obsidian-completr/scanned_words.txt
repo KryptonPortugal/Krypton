@@ -73,6 +73,9 @@ file
 fact
 felt
 further
+functionality
+formal
+functionalities
 Krypton
 Knowledge
 KryptonPortugal
@@ -101,6 +104,7 @@ unjustified
 understand
 useful
 usefull
+up
 projeto
 pretende
 permite
@@ -242,6 +246,11 @@ parties
 profile
 premise
 percieve
+place
+position
+periods
+proceed
+please
 Open
 Onde
 Os
@@ -264,6 +273,7 @@ Since
 Sciences
 Solution
 Support
+Second
 criar
 consumo
 conhecimentos
@@ -397,6 +407,10 @@ contribution
 colaborative
 check
 colaborate
+contributing
+commitment
+cases
+contributor
 de
 do
 da
@@ -575,6 +589,10 @@ entity
 extensive
 expenses
 even
+exposes
+email
+editor
+expose
 aberto
 aberta
 auxiliar
@@ -678,6 +696,10 @@ auxiliary
 allocate
 address
 appears
+annouce
+always
+application
+animations
 Atualmente
 Adicionais
 Ajudo
@@ -695,6 +717,8 @@ Applied
 Ask
 About
 Action
+Additionally
+Application
 vai
 vertentes
 veis
@@ -714,6 +738,7 @@ various
 very
 ve
 value
+varied
 na
 nossa
 nos
@@ -744,6 +769,7 @@ national
 non
 not
 number
+never
 rea
 rias
 reas
@@ -796,6 +822,9 @@ reflects
 relation
 repository
 reach
+reliable
+rewarding
+rare
 matem
 managers
 mais
@@ -866,6 +895,12 @@ maintained
 makes
 make
 made
+management
+may
+maybe
+monetized
+media
+markdown
 tica
 todo
 ticos
@@ -944,6 +979,8 @@ theoretical
 transmission
 three
 transparency
+therefore
+taken
 Inovamos
 Informac
 Introdu
@@ -1031,6 +1068,11 @@ started
 shortly
 sustainability
 see
+spread
+supposed
+sure
+sake
+strongly
 ximo
 xima
 ximas
@@ -1063,6 +1105,7 @@ openly
 other
 our
 offering
+organization
 inovador
 implementar
 integrar
@@ -1142,6 +1185,7 @@ involve
 index
 if
 interaction
+individually
 No
 Na
 Nas
@@ -1169,6 +1213,7 @@ look
 looking
 lets
 links
+like
 web
 what
 whose
@@ -1198,6 +1243,8 @@ whole
 working
 writtten
 webpage
+within
+why
 Vis
 Ver
 Verissimo
@@ -1225,6 +1272,7 @@ People
 Pure
 Pronouns
 Project
+Plugins
 Equipa
 Este
 Estamos
@@ -1243,6 +1291,7 @@ Eyesight
 Each
 Education
 Ecossystem
+Embed
 Dado
 Duarte
 Descricao
@@ -1275,9 +1324,13 @@ Creator
 Current
 Cryptocurrency
 Contribution
+Contributing
+Contact
+Conceptual
 Revisores
 Redes
 Role
+Recruitment
 Managers
 Medeiros
 Matem
@@ -1313,6 +1366,7 @@ guiding
 Background
 Bitcoin
 Bachelor
+Brain
 Hist
 History
 Hello
@@ -1329,6 +1383,7 @@ Financiamento
 Faculty
 For
 Future
+Free
 Universidade
 University
 Lisboa
@@ -1370,6 +1425,9 @@ belongs
 bureaucratic
 big
 balance
+back
+backgrounds
+before
 Tiago
 Toda
 Tenho
@@ -1416,6 +1474,7 @@ kind
 known
 GitHub
 Goal
+Graph
 Juridicamente
 What
 We
