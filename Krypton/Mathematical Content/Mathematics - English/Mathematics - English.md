@@ -1,1 +1,1 @@
-It still waits a team interested people to manage this section.
+It still waits a team of interested people to manage this section.

@@ -13,22 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
+                "file": "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc69ad11fff49910",
+            "id": "1a4dd34314f196a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Applied Graduate Mathematics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
+                "file": "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
+                "file": "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md"
+                "file": "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md"
               }
             }
           }
@@ -161,15 +157,15 @@
   },
   "active": "c583660e2a478ec9",
   "lastOpenFiles": [
+    "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
+    "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
+    "Krypton/Authors/Portuguese Authors.md",
+    "Krypton/Mathematical Content/Mathematics - English/Mathematics - English.md",
     "Krypton/Authors/English Authors.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Applied Graduate Mathematics.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Pure Graduate Mathematics/Pure Graduate Mathematics.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Superior/Matemática Pura/Matemática Avancada/Matemática Avancada - MP - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Superior/Matemática Aplicada/Matemática Avancada/Matemática Avancada - MA - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Superior/Matemática Aplicada/Licenciatura/Licenciatura- MA - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Superior/Matemática Pura/Licenciatura/Licenciatura- MP - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Secundário/10 ano/LTC/Prática/LTC - Prática - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese/Ensino Secundário/10 ano/LTC/Teoria/LTC - Teórica - PT.md"
+    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
+    "Krypton/About us/About us.md",
+    "Krypton/FAQ/FAQ.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
+    "DATA_DE_EDICAO - NOME_AUTOR - CÓDIGO DE AUTOR - ÁREA.md"
   ]
 }

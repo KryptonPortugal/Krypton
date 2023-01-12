@@ -1,6 +1,6 @@
 Introduction page of the founders of the Krypton project.
 
-### Tiago Verissimo
+## Tiago Verissimo
 
 LinkedIn: https://www.linkedin.com/in/tiagoverissimo/
 
@@ -24,7 +24,7 @@ Krypton intends to promote yet another way for knowledge to be disseminated open
 #### What is the future of the project?
 For me, the future of Krypton is this becoming a platform where people from a certain area of knowledge express themselves to an interested audience and at the same time this audience interacts with content creators.
 
-### Duarte Medeiros
+## Duarte Medeiros
 
 LinkedIn: https://www.linkedin.com/in/duarte-medeiros-a3166618b/
 

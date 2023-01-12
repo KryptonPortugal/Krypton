@@ -1,4 +1,4 @@
 ### Niveis de exposicao:
 
 - [[Ensino Secundário]]
-- [[Ensino Superior]]
+- [[Tópicos de Matemática em Licenciatura]]

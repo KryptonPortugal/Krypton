@@ -1,4 +1,4 @@
-Areas of graduate pure mathematics:
+Areas of graduate Pure mathematics:
 
 - [[Mathematical Logic and foundations]]
 - [[Combinatorics]]

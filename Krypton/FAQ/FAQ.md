@@ -20,6 +20,10 @@ There may be some very rare periods where we are looking for people for a very s
 You can always make an application.
 Contact us via any social media or email, we proceed individually in all cases, but please consider strongly why you should not be the case that you are an external contributor.
 
+
+### Why Krypton ecosystem ?
+
+
 ### Why Obsidian md as an editor ?
 Obsidian is an open-source markdown editor that has very great functionalities such as:
 - Conceptual Graph (The Second Brain)
