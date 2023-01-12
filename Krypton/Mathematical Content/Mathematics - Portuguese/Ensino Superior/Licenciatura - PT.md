@@ -1,1 +1,0 @@
-Fazer a seccao com as areas das licencianturas da fcul mais técnico.

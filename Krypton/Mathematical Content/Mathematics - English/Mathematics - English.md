@@ -1,4 +1,1 @@
-### Levels of exposition
-
-- [[High School]]
-- [[Higher Education]]
+It still waits a team interested people to manage this section.

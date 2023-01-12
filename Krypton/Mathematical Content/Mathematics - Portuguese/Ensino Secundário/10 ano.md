@@ -1,1 +1,0 @@
-fazer seccao em ensino sedundário

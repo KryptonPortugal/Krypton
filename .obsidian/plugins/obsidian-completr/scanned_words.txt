@@ -77,6 +77,7 @@ functionality
 formal
 functionalities
 fcul
+filled
 Krypton
 Knowledge
 KryptonPortugal
@@ -252,6 +253,9 @@ position
 periods
 proceed
 please
+pura
+pure
+publish
 Open
 Onde
 Os
@@ -413,6 +417,10 @@ commitment
 cases
 contributor
 cnico
+contributos
+classificacao
+collaborators
+classified
 de
 do
 da
@@ -500,6 +508,8 @@ donation
 donate
 decide
 division
+dentro
+dedicated
 em
 explorar
 existe
@@ -597,6 +607,9 @@ email
 editor
 expose
 exposicao
+exposition
+exemplos
+escrever
 aberto
 aberta
 auxiliar
@@ -705,6 +718,10 @@ always
 application
 animations
 ams
+aplicada
+avancada
+advance
+applied
 Atualmente
 Adicionais
 Ajudo
@@ -724,6 +741,8 @@ About
 Action
 Additionally
 Application
+Avancada
+AMS
 vai
 vertentes
 veis
@@ -775,6 +794,8 @@ non
 not
 number
 never
+nesta
+names
 rea
 rias
 reas
@@ -830,6 +851,8 @@ reach
 reliable
 rewarding
 rare
+rica
+repeated
 matem
 managers
 mais
@@ -986,6 +1009,9 @@ three
 transparency
 therefore
 taken
+tem
+ticas
+tag
 Inovamos
 Informac
 Introdu
@@ -1079,6 +1105,9 @@ sure
 sake
 strongly
 seccao
+sedund
+sistema
+section
 ximo
 xima
 ximas
@@ -1192,6 +1221,7 @@ index
 if
 interaction
 individually
+identification
 No
 Na
 Nas
@@ -1222,6 +1252,8 @@ lets
 links
 like
 licencianturas
+lista
+list
 web
 what
 whose
@@ -1253,6 +1285,7 @@ writtten
 webpage
 within
 why
+write
 Vis
 Ver
 Verissimo
@@ -1300,6 +1333,7 @@ Each
 Education
 Ecossystem
 Embed
+English
 Dado
 Duarte
 Descricao
@@ -1335,6 +1369,7 @@ Contribution
 Contributing
 Contact
 Conceptual
+Componentes
 Revisores
 Redes
 Role
@@ -1347,6 +1382,7 @@ Matematico
 My
 Mathematical
 Monetary
+MSC
 garantir
 gina
 gerir
@@ -1372,6 +1408,7 @@ group
 guaranteeing
 get
 guiding
+graduate
 Background
 Bitcoin
 Bachelor
@@ -1396,12 +1433,14 @@ Free
 Fazer
 Universidade
 University
+Utiliza
 Lisboa
 LinkedIn
 Licenciatura
 Lisbon
 Like
 Legally
+Levels
 jovens
 juntos
 join
@@ -1438,6 +1477,8 @@ balance
 back
 backgrounds
 before
+bachelor
+basis
 Tiago
 Toda
 Tenho
@@ -1452,6 +1493,8 @@ Team
 There
 To
 Transparency
+Te
+Tem
 Qual
 Quick
 humanos
@@ -1499,3 +1542,4 @@ you
 yet
 your
 You
+Ypo
