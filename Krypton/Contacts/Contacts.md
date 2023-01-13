@@ -13,4 +13,4 @@ https://www.linkedin.com/company/krypton-portugal/?viewAsMember=true
 ### Email
 kryptonportugal@gmail.com
 ### GitHub
-https://github.com/KryptonPortugal/KryptonPortugal
+https://github.com/KryptonPortugal/Krypton

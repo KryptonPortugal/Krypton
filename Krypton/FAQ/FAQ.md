@@ -21,8 +21,10 @@ You can always make an application.
 Contact us via any social media or email, we proceed individually in all cases, but please consider strongly why you should not be the case that you are an external contributor.
 
 
-### Why Krypton ecosystem ?
-
+### Why is Krypton an ecosystem ?
+It is an ecossystem because each of the components of the equation 
+$$\text{Krypton Ecosystem} = \text{Open Source} + \text{Social Networks} + \text{Knowledge} $$
+generate a cycle that is explained in [[Krypton ecosystem]]
 
 ### Why Obsidian md as an editor ?
 Obsidian is an open-source markdown editor that has very great functionalities such as:

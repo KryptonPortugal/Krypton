@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
+                "file": "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "1a4dd34314f196a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Krypton/FAQ/FAQ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
+                "file": "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
+                "file": "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md"
+                "file": "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md"
               }
             }
           }
@@ -157,15 +161,15 @@
   },
   "active": "c583660e2a478ec9",
   "lastOpenFiles": [
-    "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
-    "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
-    "Krypton/Authors/Portuguese Authors.md",
-    "Krypton/Mathematical Content/Mathematics - English/Mathematics - English.md",
-    "Krypton/Authors/English Authors.md",
-    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
     "Krypton/About us/About us.md",
+    "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
     "Krypton/FAQ/FAQ.md",
+    "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
+    "Krypton/Mathematical Content/Mathematics - English/Mathematics - English.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
-    "DATA_DE_EDICAO - NOME_AUTOR - CÓDIGO DE AUTOR - ÁREA.md"
+    "Krypton/Images/Open_Folder.png",
+    "Krypton/Images/Step_1.png",
+    "Krypton/Contacts/Contacts.md",
+    "Krypton/Video/Media1.mp4"
   ]
 }

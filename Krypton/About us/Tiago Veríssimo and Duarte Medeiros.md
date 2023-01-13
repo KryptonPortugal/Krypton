@@ -5,7 +5,7 @@ Introduction page of the founders of the Krypton project.
 LinkedIn: https://www.linkedin.com/in/tiagoverissimo/
 
 #### Quick intro
-Hello, I'm Tiago and I am Portuguese, at the moment I'm a master's student in mathematics, outside of the master's degree I develop Krypton as well as study scientific and mathematical topics outside my education.
+Hello, I'm Tiago and I am Portuguese, at the moment I'm a master's student in mathematics, outside of the master's degree I develop Krypton as well as study scientific and mathematical topics outside of my education.
 I'm one of the people in charge of all fronts on Krypton.
 
 #### Role in the project
@@ -13,13 +13,13 @@ My role in this project is to manage all fronts, from designing and implementing
 Duarte helps me in some decision-making processes.
 
 #### Background in the project
-The entire philosophy/idea of this project is my own, since the $0$ day that I develop this project.
+The entire philosophy/idea of this project is my own, since the day $0$ that I develop this project.
 
 #### Personal Description
 I'm a person, as a teacher of mine said with the "entrepreneurship bug" and extremely curious, from here it's all a consequence.
 
 #### Why Krypton ?
-Krypton intends to promote yet another way for knowledge to be disseminated openly, there are already many platforms where this fortunately happens, what Krypton does differently is to provide collaborative methods between content creators and consumers, as well as a reading experience to the different user from common content exposure sites.
+Krypton intends to promote yet another way for knowledge to be disseminated openly, there are already many platforms where this fortunately happens, what Krypton does differently is to provide collaborative methods between content creators and consumers, as well as providing a different reading experience to the user.
 
 #### What is the future of the project?
 For me, the future of Krypton is this becoming a platform where people from a certain area of knowledge express themselves to an interested audience and at the same time this audience interacts with content creators.

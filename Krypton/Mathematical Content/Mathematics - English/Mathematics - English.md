@@ -1,1 +1,0 @@
-It still waits a team of interested people to manage this section.
