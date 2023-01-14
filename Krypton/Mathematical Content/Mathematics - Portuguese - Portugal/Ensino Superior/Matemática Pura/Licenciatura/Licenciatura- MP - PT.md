@@ -1,9 +1,9 @@
 Temáticas de matemática pura em licenciatura de matemática:
 
 - [[Fundamentos no pensamento matemático]]
-- [[Álgebra Linear - PT/PT]]
-- [[Cálculo - PT/PT]]
-- [[Análise Matemática - PT/PT]]
+- [[Álgebra Linear - PT]]
+- [[Cálculo - PT]]
+- [[Análise Matemática - PT]]
 - [[Geometria - PT/PT]]
 - [[Álgebra - PT/PT]]
 - [[Topologia - PT/PT]]

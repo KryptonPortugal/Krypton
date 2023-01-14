@@ -123,6 +123,7 @@ qTow
 qcd
 qEm
 qmv
+questione
 fazemos
 fazer
 formato
@@ -308,6 +309,8 @@ fGty
 fOp
 fG
 familarized
+formatc
+formata
 Krypton
 Knowledge
 KryptonPortugal
@@ -841,6 +844,8 @@ program
 path
 published
 programing
+portuguesas
+pretender
 Open
 Onde
 Os
@@ -1076,6 +1081,7 @@ SRt
 SJ
 SmH
 Select
+Sistema
 criar
 consumo
 conhecimentos
@@ -1355,6 +1361,13 @@ care
 configurations
 curve
 componets
+curriculares
+contribuir
+car
+cter
+cycle
+contribuiam
+consulte
 de
 do
 da
@@ -1555,6 +1568,7 @@ dzOD
 dOLj
 deW
 documentation
+devendo
 em
 explorar
 existe
@@ -1769,6 +1783,9 @@ end
 editing
 effort
 ecossystem
+exemplo
+explained
+exposic
 aberto
 aberta
 auxiliar
@@ -1995,6 +2012,8 @@ aonYj
 aKQ
 account
 ask
+atualemente
+acordo
 Atualmente
 Adicionais
 Ajudo
@@ -2261,6 +2280,8 @@ vOO
 vrZ
 vyU
 visualise
+verificar
+vida
 na
 nossa
 nos
@@ -2410,6 +2431,7 @@ nLh
 nl
 nTl
 nZo
+nica
 rea
 rias
 reas
@@ -2763,6 +2785,7 @@ mDDD
 mVo
 mEi
 makre
+metas
 tica
 todo
 ticos
@@ -3309,6 +3332,10 @@ store
 steps
 select
 steep
+sugest
+separa
+sugerimos
+seguir
 ximo
 xima
 ximas
@@ -3574,6 +3601,7 @@ oDZ
 oiC
 oiEV
 option
+orico
 inovador
 implementar
 integrar
@@ -3773,6 +3801,8 @@ iMY
 izR
 iOU
 image
+intressados
+indicar
 No
 Na
 Nas
@@ -4574,6 +4604,7 @@ EyZ
 EOCA
 EYqs
 EEn
+Exposition
 Dado
 Duarte
 Descricao
@@ -4709,6 +4740,7 @@ DDDT
 DDDTX
 DDDDtka
 DDDDDDDDDDD
+Deixamos
 Criadores
 Consumidores
 Conteudo
@@ -4865,6 +4897,7 @@ CPkAo
 CDDDDD
 CDDD
 CWU
+Classification
 Revisores
 Redes
 Role
@@ -5253,6 +5286,8 @@ gGb
 gMP
 gvK
 green
+gerida
+generate
 Background
 Bitcoin
 Bachelor
@@ -5773,6 +5808,7 @@ UKd
 UdU
 Uwo
 UNkv
+Usamos
 Lisboa
 LinkedIn
 Licenciatura
@@ -6284,6 +6320,7 @@ Thats
 TGc
 TOL
 TiyN
+Tipo
 Qual
 Quick
 Qp
@@ -6808,6 +6845,7 @@ GDDDDDDDD
 GEZ
 GRS
 GitHUb
+Gest
 Juridicamente
 JBK
 JU

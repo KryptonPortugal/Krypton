@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a4dd34314f196a1",
+            "id": "56f02bd80efa6ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/FAQ/FAQ.md",
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5026054382324
+    "width": 355.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "72d2293102253a62",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md"
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md"
               }
             }
           }
@@ -161,15 +162,15 @@
   },
   "active": "c583660e2a478ec9",
   "lastOpenFiles": [
-    "Krypton/About us/About us.md",
-    "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
-    "Krypton/FAQ/FAQ.md",
-    "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
-    "Krypton/Mathematical Content/Mathematics - English/Mathematics - English.md",
+    "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
-    "Krypton/Images/Open_Folder.png",
-    "Krypton/Images/Step_1.png",
-    "Krypton/Contacts/Contacts.md",
-    "Krypton/Video/Media1.mp4"
+    "Krypton/FAQ/FAQ.md",
+    "Álgebra Linear - PT.md",
+    "Álgebra Linear - Teórico - PT.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Licenciatura- MP - PT.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Aplicada/Licenciatura/Licenciatura- MA - PT.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/LTC/Teoria/LTC - Teórica - PT.md",
+    "Álgebra Linear - PT/PT.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Matemática Pura.md"
   ]
 }
