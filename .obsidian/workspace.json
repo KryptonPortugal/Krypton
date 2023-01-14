@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c583660e2a478ec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "56f02bd80efa6ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "040df9fbe600bcaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5026054382324
+    "width": 395.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "72d2293102253a62",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md"
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md"
               }
             }
           }
@@ -159,17 +160,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "c583660e2a478ec9",
+  "active": "56f02bd80efa6ac4",
   "lastOpenFiles": [
-    "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
+    "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/Ensino Secundário.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Álgebra Linear/Álgebra Linear - PT.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Álgebra Linear/Teórico/Álgebra Linear - Teórico - PT.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/LTC/Prática/LTC - Prática - PT.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/LTC/Lógica e Teoria dos Conjuntos.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/12 ano/12 ano.md",
     "Krypton/FAQ/FAQ.md",
-    "Álgebra Linear - PT.md",
-    "Álgebra Linear - Teórico - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Licenciatura- MP - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Aplicada/Licenciatura/Licenciatura- MA - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/LTC/Teoria/LTC - Teórica - PT.md",
-    "Álgebra Linear - PT/PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Matemática Pura.md"
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Licenciatura- MP - PT.md"
   ]
 }

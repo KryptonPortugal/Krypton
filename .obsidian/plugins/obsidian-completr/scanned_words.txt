@@ -124,6 +124,7 @@ qcd
 qEm
 qmv
 questione
+questions
 fazemos
 fazer
 formato
@@ -311,6 +312,7 @@ fG
 familarized
 formatc
 formata
+ficheiro
 Krypton
 Knowledge
 KryptonPortugal
@@ -4605,6 +4607,7 @@ EOCA
 EYqs
 EEn
 Exposition
+Exemplo
 Dado
 Duarte
 Descricao
@@ -6321,6 +6324,7 @@ TGc
 TOL
 TiyN
 Tipo
+Tipos
 Qual
 Quick
 Qp
