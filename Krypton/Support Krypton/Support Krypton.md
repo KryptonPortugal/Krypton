@@ -15,4 +15,4 @@ https://paypal.me/KryptonPortugal?country.x=PT&locale.x=pt_PT
 
 ### Content production:
 If you have a specific skill or knowledge that could be useful to the project, consider offering your services for the cause of knowledge sharing.
-For further interaction see [[Entry Guide to the Ecosystem]].
+For further interaction see [[Entry Guide to Krypton]].

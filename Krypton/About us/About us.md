@@ -9,7 +9,7 @@ The Krypton project intends to be the next method of production and consumption 
 
 Krypton is innovative in two ways:
 - In the method of collaboration between creators
-- In the use of the potential of web languages for the production of teaching aid content.
+- In the use of the potential of  programing languages to visualise and publish content via web.
 
 ### Vision
 
@@ -48,8 +48,6 @@ This project emerged as an idea very different from the current one, after appro
 Currently, the project is being passed from idea to paper and can be considered in a way that we are in the prototyping phase.
 
 We are currently building the foundations of the [[Krypton ecosystem]] that allows for the production and consumption of open knowledge, in this case Krypton has chosen to start with mathematical knowledge.
-
-The Krypton project is currently only interested in making itself known through social networks and building the structure of the future ecosystem, until then we will communicate through social networks.
 
 ### Additional Information
 
