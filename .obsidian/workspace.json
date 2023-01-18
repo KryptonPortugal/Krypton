@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56f02bd80efa6ac4",
+            "id": "3834ee3175c3ad75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Applied Graduate Mathematics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "040df9fbe600bcaf",
+            "id": "0a57a72baa29b730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68-02/MIDL - TV - 0001/Mathematical Introduction to Deep Learning - Tiago Veríssimo - 0001.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5026054382324
+    "width": 427.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "72d2293102253a62",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Applied Graduate Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Applied Graduate Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md"
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Applied Graduate Mathematics.md"
               }
             }
           }
@@ -160,17 +160,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "040df9fbe600bcaf",
+  "active": "3834ee3175c3ad75",
   "lastOpenFiles": [
-    "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/Ensino Secundário.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Álgebra Linear/Álgebra Linear - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Álgebra Linear/Teórico/Álgebra Linear - Teórico - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/LTC/Prática/LTC - Prática - PT.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/LTC/Lógica e Teoria dos Conjuntos.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/12 ano/12 ano.md",
-    "Krypton/FAQ/FAQ.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Licenciatura- MP - PT.md"
+    "Krypton/Mathematical Content/Graduate Mathematics/Pure Graduate Mathematics/Pure Graduate Mathematics.md",
+    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68-02/MIDL - TV - 0001/Mathematical Introduction to Deep Learning - Tiago Veríssimo - 0001.md",
+    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68-02/68-02.md",
+    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68-02/MIML - TV - 0001/Untitled.md",
+    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68-02/MIML - TV - 0001/Mathematical Introduction to Machine Learning - Tiago Veríssimo - 0001.md",
+    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68 - Computer science.md",
+    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Applied Graduate Mathematics.md",
+    "Calculus of variations and optimal control; optimization.md",
+    "Krypton/Mathematical Content/Graduate Mathematics/Classification System/classifications2020.pdf",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo/Teoria/Cálculo - Teórico - PT.md"
   ]
 }

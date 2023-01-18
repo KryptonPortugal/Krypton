@@ -313,6 +313,7 @@ familarized
 formatc
 formata
 ficheiro
+find
 Krypton
 Knowledge
 KryptonPortugal
@@ -1084,6 +1085,7 @@ SJ
 SmH
 Select
 Sistema
+Seguimos
 criar
 consumo
 conhecimentos
@@ -1370,6 +1372,9 @@ cter
 cycle
 contribuiam
 consulte
+contributes
+classfication
+category
 de
 do
 da
@@ -1571,6 +1576,7 @@ dOLj
 deW
 documentation
 devendo
+documents
 em
 explorar
 existe

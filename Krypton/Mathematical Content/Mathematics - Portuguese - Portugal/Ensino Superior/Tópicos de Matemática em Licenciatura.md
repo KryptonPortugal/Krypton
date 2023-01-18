@@ -1,5 +1,5 @@
 ## Ramos
 
-## [[Matemática Aplicada]]
+## [[Licenciatura - Matemática Aplicada]]
 
-## [[Matemática Pura]]
+## [[Licenciatura - Matemática Pura]]
