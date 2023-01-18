@@ -6,8 +6,9 @@
 A página da matemática Portuguesa é gerida atualmente por [[Tiago Veríssimo and Duarte Medeiros]]
 
 ### Sistema de classificacao
+Seguimos as [[programa_metas_curriculares_matematica_a_secundario.pdf|metas curriculares portuguesas]].
+
 #### Ensino Secundário
-Usamos as metas [[programa_metas_curriculares_matematica_a_secundario.pdf|metas curriculares portuguesas]].
 Deixamos aberto á sugestão de intressados que contribuiam de acordo com as metas curriculares, devendo somente indicar dentro de cada área se o seu conteudo é de carácter téorico ou prático.
 Pode verificar um exemplo na área de [[Lógica e Teoria dos Conjuntos]]
 Em caso de dúvida, consulte o discord e questione em [[Contacts]]

@@ -1,4 +1,4 @@
-Krypton currently has 7 communication channels:
+Krypton currently has 6 communication channels:
 
 ### Twitter 
 https://twitter.com/KryptonPortugal
@@ -6,8 +6,6 @@ https://twitter.com/KryptonPortugal
 https://www.instagram.com/krypton_project/
 ### Discord
 https://discord.gg/FGwdPmAXes
-### TikTok
-https://www.tiktok.com/@krypton_project
 ### LinkedIn
 https://www.linkedin.com/company/krypton-portugal/?viewAsMember=true
 ### Email
