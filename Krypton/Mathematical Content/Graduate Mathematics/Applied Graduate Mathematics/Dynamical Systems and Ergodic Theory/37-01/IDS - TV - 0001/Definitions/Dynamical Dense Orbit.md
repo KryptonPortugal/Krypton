@@ -1,0 +1,2 @@
+Let $(X,T)$ be a [[Topological Dynamical System]] and consider an [[Orbit of the dynamical system]] $\sigma$ .
+We say that $\sigma$ is a **dense orbit** if we have that $\bar{\sigma_{x}} = X$, where we the **bar** operator is the topological closure.
