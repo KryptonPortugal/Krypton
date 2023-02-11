@@ -3,5 +3,6 @@
   "copy-as-latex",
   "obsidian-tikzjax",
   "obsidian-completr",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "obsidian-latex-suite"
 ]

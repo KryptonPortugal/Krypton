@@ -336,6 +336,9 @@ fDh
 fAL
 founded
 followers
+firing
+fires
+faster
 Krypton
 Knowledge
 KryptonPortugal
@@ -608,6 +611,7 @@ unique
 usefulness
 uSv
 uoS
+upward
 projeto
 pretende
 permite
@@ -902,6 +906,9 @@ philosopher
 produced
 plucking
 proportion
+present
+pretends
+piecewise
 Open
 Onde
 Os
@@ -1154,6 +1161,7 @@ SgqY
 Samos
 Short
 Story
+Stick
 criar
 consumo
 conhecimentos
@@ -1481,6 +1489,8 @@ commonly
 context
 concords
 connecting
+consists
+constant
 de
 do
 da
@@ -1703,6 +1713,11 @@ dKt
 dLO
 dFD
 dietary
+dealing
+depending
+diverse
+diferentiable
+derivative
 em
 explorar
 existe
@@ -1937,6 +1952,7 @@ ePQ
 equal
 evidence
 earliest
+exhibit
 aberto
 aberta
 auxiliar
@@ -2174,6 +2190,10 @@ aBPq
 aZa
 angled
 arrangement
+activation
+activations
+alterned
+activates
 Atualmente
 Adicionais
 Ajudo
@@ -2323,6 +2343,8 @@ Another
 Abstract
 Aaq
 ARCy
+Activation
+Activations
 vai
 vertentes
 veis
@@ -2450,6 +2472,8 @@ vida
 variation
 vAm
 vDXD
+values
+version
 na
 nossa
 nos
@@ -2611,6 +2635,10 @@ namely
 nSf
 nqW
 numerical
+neurons
+neural
+neuron
+network
 rea
 rias
 reas
@@ -2788,6 +2816,8 @@ rotation
 rv
 ratios
 reality
+rate
+resemble
 matem
 managers
 mais
@@ -2989,6 +3019,10 @@ maximality
 mathematician
 musical
 music
+minimal
+multilayer
+models
+mimic
 tica
 todo
 ticos
@@ -3219,6 +3253,9 @@ thas
 trajectory
 tvb
 triangle
+types
+tend
+tangent
 Inovamos
 Informac
 Introdu
@@ -3598,6 +3635,14 @@ squares
 sides
 sound
 string
+simplest
+slope
+simplistically
+sort
+stick
+shaped
+similar
+saturating
 ximo
 xima
 ximas
@@ -4099,6 +4144,8 @@ irrational
 iqok
 iXg
 insight
+inspired
+increasing
 No
 Na
 Nas
@@ -4225,6 +4272,7 @@ NXwH
 NYCC
 Nwx
 NIqc
+Neural
 linguagens
 lingua
 leitura
@@ -4383,6 +4431,8 @@ lyE
 lived
 later
 legacy
+logistic
+linear
 web
 what
 whose
@@ -4785,6 +4835,9 @@ PSx
 Plb
 Pythagoras
 Pythagoreans
+Parametric
+PReLU
+Pagina
 Equipa
 Este
 Estamos
@@ -4940,6 +4993,7 @@ Exemplo
 Example
 Entropy
 EKd
+Examples
 Dado
 Duarte
 Descricao
@@ -5373,6 +5427,8 @@ RQe
 Remarks
 Rotations
 RXLA
+Rectified
+ReLU
 Managers
 Medeiros
 Matem
@@ -5662,6 +5718,9 @@ goes
 gradual
 gdi
 gqq
+greater
+generalised
+graphs
 Background
 Bitcoin
 Bachelor
@@ -5804,6 +5863,7 @@ BPj
 BYT
 Birth
 BCE
+Bipolar
 Hist
 History
 Hello
@@ -5937,6 +5997,8 @@ Hop
 HeHJ
 HRY
 Hfp
+Heaviside
+Hockey
 Faculdade
 Fun
 Func
@@ -6079,6 +6141,9 @@ Firstly
 From
 FZN
 Fzc
+Functions
+Family
+Function
 Universidade
 University
 Utiliza
@@ -6211,6 +6276,7 @@ Uwo
 UNkv
 Usamos
 UQB
+Unit
 Lisboa
 LinkedIn
 Licenciatura
@@ -6336,6 +6402,7 @@ LiU
 Lmi
 LJdr
 LMi
+Linear
 jovens
 juntos
 join
@@ -6442,6 +6509,7 @@ jeu
 jub
 jBP
 jfC
+jump
 bases
 bicho
 boa
@@ -6615,6 +6683,9 @@ byL
 beliefs
 believed
 bodies
+behaviour
+biologically
+behavoiour
 Tiago
 Toda
 Tenho
@@ -7046,6 +7117,8 @@ hypotenuse
 harmony
 heavenly
 his
+hockey
+hyperbolic
 kryptonportugal
 knowledge
 kind

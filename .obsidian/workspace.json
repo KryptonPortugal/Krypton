@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/Mathematicians in History/Pythagoras/Pythagoras.md",
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68-01/MIDL - TV - 0001/Mathematical Introduction to Deep Learning - Tiago Veríssimo - 0001.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5004348754883
+    "width": 344.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "72d2293102253a62",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Mathematicians in History/Pythagoras/Pythagoras.md",
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68-01/MIDL - TV - 0001/Mathematical Introduction to Deep Learning - Tiago Veríssimo - 0001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Mathematicians in History/Pythagoras/Pythagoras.md",
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68-01/MIDL - TV - 0001/Mathematical Introduction to Deep Learning - Tiago Veríssimo - 0001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Mathematicians in History/Pythagoras/Pythagoras.md"
+                "file": "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68-01/MIDL - TV - 0001/Mathematical Introduction to Deep Learning - Tiago Veríssimo - 0001.md"
               }
             }
           }
@@ -149,15 +150,15 @@
   },
   "active": "7ad653ffe715d2a8",
   "lastOpenFiles": [
-    "Krypton/Mathematicians in History/Pythagoras/pythagoras-4.jpg",
-    "Krypton/Mathematicians in History/Pythagoras/Pythagoras.md",
     "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Dynamical Systems and Ergodic Theory/37-01/IDS - TV - 0001/An introduction to dynamical systems - Tiago Veríssimo - 0001.md",
+    "Topological Transitive.md",
+    "Topological Minimal.md",
     "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Dynamical Systems and Ergodic Theory/37-01/IDS - TV - 0001/Proofs/Proof - Theorem 1 - IDS - TV 0001.md",
+    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Dynamical Systems and Ergodic Theory/37-01/IDS - TV - 0001/Propositions/Closure of a Dynamical Orbit is T-Invariant.md",
+    "Krypton/Mathematicians in History/Pythagoras/Pythagoras.md",
+    "Krypton/Mathematicians in History/Pythagoras/pythagoras-4.jpg",
     "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Dynamical Systems and Ergodic Theory/37-01/IDS - TV - 0001/Theorem/Theorem 1 -  IDS - TV 0001.md",
     "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Dynamical Systems and Ergodic Theory/37-01/IDS - TV - 0001/Definitions/Continuous Flow.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Dynamical Systems and Ergodic Theory/37-01/IDS - TV - 0001/Definitions/Discrete Flow.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Pure Graduate Mathematics/Differential Geometry/52-01/IDG - TV - 0001/Introduction to diferential geometry - Tiago Veríssimo - 0001.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Dynamical Systems and Ergodic Theory/37-01/IDS - TV - 0001/Propositions/Closure of a Dynamical Orbit is T-Invariant.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Dynamical Systems and Ergodic Theory/37-01/IDS - TV - 0001/Definitions/Dynamical T-invariant.md"
+    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Dynamical Systems and Ergodic Theory/37-01/IDS - TV - 0001/Definitions/Discrete Flow.md"
   ]
 }

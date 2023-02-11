@@ -1,0 +1,19 @@
+{
+  "snippets": "[    \n    // Math mode\n    {trigger: \"mk\", replacement: \"$$0$\", options: \"tA\"},\n    {trigger: \"dm\", replacement: \"$$\\n$0\\n$$\", options: \"tAw\"},\n    {trigger: \"beg\", replacement: \"\\\\begin{$0}\\n$1\\n\\\\end{$0}\", options: \"mA\"},\n]",
+  "snippetsEnabled": true,
+  "loadSnippetsFromFile": false,
+  "snippetsFileLocation": "",
+  "concealEnabled": false,
+  "colorPairedBracketsEnabled": true,
+  "highlightCursorBracketsEnabled": true,
+  "inlineMathPreviewEnabled": true,
+  "autofractionEnabled": true,
+  "autofractionExcludedEnvs": "[\n        [\"^{\", \"}\"],\n        [\"\\\\pu{\", \"}\"]\n]",
+  "autofractionBreakingChars": "+-=",
+  "matrixShortcutsEnabled": true,
+  "matrixShortcutsEnvNames": "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix",
+  "taboutEnabled": true,
+  "autoEnlargeBrackets": true,
+  "autoEnlargeBracketsTriggers": "sum, int, frac, prod",
+  "wordDelimiters": "., +-\\n\t:;!?\\/{}[]()=~$"
+}

@@ -4,7 +4,7 @@
 **Birth:** Samos, Ionia 569 b.c.e.
 **Death:** Metapontum, Magna Graecia 494 b.c.e
 
-# Short Story of Pythagoras
+# Short Story
 
 Pythagoras was a Greek mathematician and philosopher who lived in southern Italy in the 6th century BCE.
 He founded a group of followers called the Pythagoreans, who shared beliefs, dietary habits, and a code of behavior. 

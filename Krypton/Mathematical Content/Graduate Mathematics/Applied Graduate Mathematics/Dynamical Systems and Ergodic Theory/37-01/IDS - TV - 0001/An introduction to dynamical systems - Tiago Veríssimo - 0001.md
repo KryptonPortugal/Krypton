@@ -36,7 +36,7 @@ there is a very special notion in dynamical systems that is very usefull as we w
 
 ![[Dynamical T-invariant]]
 
-and we arrive at our first proposition, the fact [[Closure of a Dynamical Orbit is T-Invariant]] which formally stays as
+and we arrive at our first proposition, the fact that the [[Closure of a Dynamical Orbit is T-Invariant]] which formally stays as
 
 ![[Closure of a Dynamical Orbit is T-Invariant]]
 
@@ -46,7 +46,7 @@ and the proof is made here
 
 ### Example 1
 
-We go for our **first example** of a dynamical system, namely consider the dynamical system where the set $X = [0,1]/\sim$  in the dynamical system $(X,T)$ where we have the continuos function
+We go for our **first example** of a dynamical system, namely consider the dynamical system where the set $X = [0,1]/\sim$  in the dynamical system $(X,T)$ where we have the continuos function $T$ is
 $$
 \begin{align}
 T: X \rightarrow X \newline x \mapsto2x
@@ -97,8 +97,8 @@ x' = -y \newline
 y' = x  \newline
 X_{0}(K) = K
 \end{cases*}, \qquad X_{t}(K) = \begin{bmatrix}
-x(t)  \\ y(t) 
-\end{bmatrix}K
+x(0)  \\ y(0) 
+\end{bmatrix}
 $$
 
 and we have the [[Continuous Flow]] if we define
@@ -147,4 +147,13 @@ the proof of this result can be seen down here
 
 ![[Proof - Theorem 1 - IDS - TV 0001]]
 
+
+A dynamical system $(X,f)$ is said to be [[Topological Transitive]] if we have:
+
+![[Topological Transitive]]
+
+
+and we say that $(X,f)$ is said to be [[Topological Minimal]] if we have:
+
+![[Topological Minimal]]
 
