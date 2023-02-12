@@ -29,7 +29,7 @@ For me, the future of Krypton is this becoming a platform where people from a ce
 LinkedIn: https://www.linkedin.com/in/duarte-medeiros-a3166618b/
 
 #### Quick intro
-Hello, I'm Duarte and I am Portuguese, currently I am a master's student and passionate about mathematics! I'm helping Tiago in the ideation, construction and development of Krypton.
+Hello, I'm Duarte and I am Portuguese. Currently, I am a master's student and passionate about mathematics! I'm helping Tiago in the ideation, construction and development of Krypton.
 
 #### Role in the project
 My main role is to help Tiago with ideas for the Krypton project.
