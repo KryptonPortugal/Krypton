@@ -318,6 +318,7 @@ forem
 foram
 falsas
 filmes
+frameborder
 Krypton
 Knowledge
 KryptonPortugal
@@ -1396,6 +1397,7 @@ conjun
 contexto
 cinema
 chamamos
+ccc
 de
 do
 da
@@ -3198,6 +3200,7 @@ Ihy
 IYq
 IuLu
 IEND
+Intervalos
 ser
 seus
 sao
@@ -3407,6 +3410,8 @@ simultaneamente
 sobre
 simples
 significado
+situac
+solid
 ximo
 xima
 ximas
@@ -6292,6 +6297,7 @@ bey
 baN
 button
 branch
+border
 Tiago
 Toda
 Tenho

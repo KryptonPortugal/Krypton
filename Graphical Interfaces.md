@@ -12,8 +12,8 @@ Gráficos para explorar situacões.
 
 $u_n=\frac{1}{n}$
 
-<iframe src="https://www.desmos.com/calculator/2l5oxp9czy?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/yi1hb16qog?embed" width="700" height="700" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 $u_{n}= 1-\frac{1}{n}$
 
-<iframe src="https://www.desmos.com/calculator/6tymbjivye?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/g9pxfhraqr?embed" width="700" height="700" style="border: 1px solid #ccc" frameborder=0></iframe>
