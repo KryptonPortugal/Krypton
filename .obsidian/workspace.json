@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47892414ead4edf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphical Interfaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_02_023- Duarte_Medeiros- 0002 - ÁREA.md",
+                "file": "Graphical Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_02_023- Duarte_Medeiros- 0002 - ÁREA.md",
+                "file": "Graphical Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_02_023- Duarte_Medeiros- 0002 - ÁREA.md"
+                "file": "Graphical Interfaces.md"
               }
             }
           }
@@ -147,10 +160,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "040df9fbe600bcaf",
+  "active": "47892414ead4edf2",
   "lastOpenFiles": [
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/LTC/Teoria/LTC - Teórica - PT.md",
     "01_02_023- Duarte_Medeiros- 0002 - ÁREA.md",
+    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/LTC/Teoria/LTC - Teórica - PT.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/LTC/Lógica e Teoria dos Conjuntos.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/10 ano.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/LTC/Prática/LTC - Prática - PT.md",

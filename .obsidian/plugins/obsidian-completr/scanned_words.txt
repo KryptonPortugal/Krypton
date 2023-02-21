@@ -314,6 +314,10 @@ formatc
 formata
 ficheiro
 falsa
+forem
+foram
+falsas
+filmes
 Krypton
 Knowledge
 KryptonPortugal
@@ -856,6 +860,12 @@ proposicional
 princ
 pios
 pio
+propriedades
+parir
+primo
+par
+palavra
+podemos
 Open
 Onde
 Os
@@ -967,6 +977,7 @@ OuE
 OeT
 OVT
 OEDDD
+Opera
 Source
 Sou
 Sociais
@@ -1380,6 +1391,11 @@ contribuiam
 consulte
 corrente
 casos
+conseguimos
+conjun
+contexto
+cinema
+chamamos
 de
 do
 da
@@ -1584,6 +1600,10 @@ devendo
 designa
 dobro
 dizem
+designamos
+dupla
+disjun
+definida
 em
 explorar
 existe
@@ -1803,6 +1823,8 @@ explained
 exposic
 essencialmente
 equivalentes
+escolher
+exclusiva
 aberto
 aberta
 auxiliar
@@ -2034,6 +2056,8 @@ acordo
 atribuir
 admitem
 afirmar
+assumir
+ambos
 Atualmente
 Adicionais
 Ajudo
@@ -2178,6 +2202,7 @@ AnA
 ADDDt
 Avv
 AEqqq
+Assim
 vai
 vertentes
 veis
@@ -2305,6 +2330,9 @@ vida
 valor
 verdadeira
 verifica
+verdade
+verdadeiras
+ver
 na
 nossa
 nos
@@ -2457,6 +2485,10 @@ nZo
 nica
 nega
 nunca
+nios
+nova
+num
+nenhum
 rea
 rias
 reas
@@ -2627,6 +2659,7 @@ remember
 ready
 representa
 respetivamente
+representamos
 matem
 managers
 mais
@@ -2813,6 +2846,7 @@ mVo
 mEi
 makre
 metas
+menos
 tica
 todo
 ticos
@@ -3032,6 +3066,7 @@ tipos
 termos
 terceiro
 tiverem
+tabela
 Inovamos
 Informac
 Introdu
@@ -3369,6 +3404,9 @@ sugerimos
 seguir
 semelhantes
 simultaneamente
+sobre
+simples
+significado
 ximo
 xima
 ximas
@@ -3636,6 +3674,8 @@ oiEV
 option
 orico
 objeto
+opera
+outro
 inovador
 implementar
 integrar
@@ -3839,6 +3879,7 @@ intressados
 indicar
 interpreta
 irracional
+importantes
 No
 Na
 Nas
@@ -3958,6 +3999,7 @@ NHP
 Nim
 NtiS
 NwS
+Nega
 linguagens
 lingua
 leitura
@@ -4350,6 +4392,7 @@ VzR
 VsDDDDDDDDD
 VPPp
 Verdadeiro
+Verdade
 Portugal
 Pessoal
 Porque
@@ -4495,6 +4538,7 @@ Pxe
 PzZ
 Proposi
 Princ
+Picasso
 Equipa
 Este
 Estamos
@@ -4787,6 +4831,9 @@ DDDDDDDDDDD
 Deixamos
 Defini
 Duas
+Dada
+Dadas
+Disjun
 Criadores
 Consumidores
 Conteudo
@@ -4945,6 +4992,8 @@ CDDD
 CWU
 Classification
 Contradi
+Conjun
+Chanel
 Revisores
 Redes
 Role
@@ -5336,6 +5385,7 @@ gvK
 green
 gerida
 generate
+gicas
 Background
 Bitcoin
 Bachelor
@@ -5979,6 +6029,7 @@ Lzb
 LDDDT
 LdD
 LSA
+Lei
 jovens
 juntos
 join
@@ -6374,6 +6425,7 @@ Tipo
 Tipos
 Termos
 Terceiro
+Tabela
 Qual
 Quick
 Qp
@@ -6504,6 +6556,7 @@ Qhr
 QjmF
 QgVU
 QJJJlY
+Quando
 humanos
 hist
 hoje
