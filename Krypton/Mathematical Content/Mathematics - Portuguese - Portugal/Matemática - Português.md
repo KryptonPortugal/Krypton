@@ -16,5 +16,5 @@ Em caso de dúvida, consulte o discord e questione em [[Contacts]]
 #### Tópicos de Licenciatura
 Deixamos abertos á sugestão de intressados que contribuiam de acordo com a separação de áreas que nós sugerimos, devendo somente indicar dentro de cada área se o seu conteudo é de carácter téorico ou prático.
 Se pretender contribuir para uma temática, a única separação que deve fazer é se está a contribuir com conteúdo prático ou teórico e seguir a usual formatação de ficheiros.
-Pode verificar um exemplo em [[Álgebra Linear - PT]]
+Pode verificar um exemplo em [[Cálculo - PT]]
 Em caso de dúvida, consulte o discord e questione em [[Contacts]]
