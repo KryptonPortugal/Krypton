@@ -1,2 +1,0 @@
-Let a [[Topological Space]] $(X,O)$ be [[Locally Euclidean]].
-We call the pair $(U,\phi)$  where $\phi : U \rightarrow V$ is an [[Homeomorphism]] and $U \subseteq X$ is an [[Open Neighborhood]] we call such a pair a **chart** of $X$.

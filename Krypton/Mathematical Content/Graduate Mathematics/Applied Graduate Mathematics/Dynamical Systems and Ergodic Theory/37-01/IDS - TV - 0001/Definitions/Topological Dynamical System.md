@@ -1,1 +1,0 @@
-We call the pair $(X,T)$ a **topological dynamical system** if we have that $X$ is a metric space $(X,d)$ and the function $T:X \rightarrow X$ is continuous function.

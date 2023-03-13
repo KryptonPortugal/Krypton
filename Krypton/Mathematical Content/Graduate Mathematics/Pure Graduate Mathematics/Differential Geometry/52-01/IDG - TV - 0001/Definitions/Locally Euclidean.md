@@ -1,1 +1,0 @@
-We say that a [[Topological Space]] $(X,O)$ is **locally euclidean** if for all $p \in O$ there exists an [[Open Neighborhood]] $U \subseteq M$ and an open subset $V \subseteq \mathbb{R}^{n}$  for some $n \in \mathbb{N}$ and a local [[Homeomorphism]] $\phi : U \rightarrow V$ such that $U \cong V$
