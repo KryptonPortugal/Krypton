@@ -10,9 +10,6 @@ https://publish.obsidian.md/kryptonportugal/Krypton/About+us/About+us
 ## Krypton Ecossystem
 https://publish.obsidian.md/kryptonportugal/Krypton/Krypton+Ecosystem/Krypton+ecosystem
 
-## How to start colaborate 
-https://publish.obsidian.md/kryptonportugal/Krypton/Krypton+Ecosystem/Entry+Guide+to+the+ecosystem
-
 ## Action plan
 https://publish.obsidian.md/kryptonportugal/Krypton/Strategy/Action+plan
 

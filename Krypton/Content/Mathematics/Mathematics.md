@@ -3,7 +3,7 @@
 - [[Applied Mathematics]]
 
 ### Managers of the page
-This page is currently managed by [[Tiago Veríssimo and Duarte Medeiros]], however we want this page to be managed by people other than us.
+This page is currently managed by [[Tiago Veríssimo and Duarte Medeiros]].
 
 ### Classification system
 Each page will be classified on the basis of the current **MSC2020** by the *AMS*.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/Content/Data Science/Data science.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Content/Data Science/Data science.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Content/Data Science/Data science.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Content/Data Science/Data science.md"
+                "file": "README.md"
               }
             }
           }
@@ -157,13 +157,15 @@
   },
   "active": "7bf06b2144d4babc",
   "lastOpenFiles": [
+    "Krypton/Support Krypton/Support Krypton.md",
+    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
+    "Krypton/About us/About us.md",
     "Krypton/Content/Mathematics/Fundamental Mathematics/Pure Mathematics.md",
-    "Krypton/Content/Data Science/Data science.md",
     "Krypton/Content/Mathematics/Mathematics.md",
+    "Krypton/Content/Data Science/Data science.md",
     "Krypton/Content/Mathematics/Applied Mathematics/Applied Mathematics.md",
     "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
     "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
-    "Krypton/Support Krypton/Support Krypton.md",
     "Krypton/Strategy/Action Plan.md",
     "Krypton/Content/Science",
     "Krypton/Content/Data Science",
@@ -179,8 +181,6 @@
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Licenciatura - Matemática Pura.md",
     "Krypton/Authors/Authors.md",
     "Krypton/Authors/People Pages/Tiago Veríssimo 0001.md",
-    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
-    "Krypton/About us/About us.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT/Cálculo - PT.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT/Pré-Requisitos/Pré-Requisitos.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT/Pré-Requisitos",

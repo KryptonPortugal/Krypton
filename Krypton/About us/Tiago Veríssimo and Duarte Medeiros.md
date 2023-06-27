@@ -16,7 +16,7 @@ Duarte helps me in some decision-making processes.
 The entire philosophy/idea of this project is my own, since the day $0$ that I develop this project.
 
 #### Personal Description
-I'm a curious and motivated person with interests in mathematics, data science and science.
+I'm a curious and motivated person with interests in mathematics and data science.
 
 #### Why Krypton ?
 Krypton intends to promote yet another way for knowledge to be disseminated openly, there are already many platforms where this fortunately happens, what Krypton does differently is to provide collaborative methods between content creators and consumers, as well as providing a different reading experience to the user.
