@@ -13,7 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/About us/About us.md",
+                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/57 - Manifolds and cell complexes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a02d231c117129e5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Krypton/Content/Mathematics/Classification System/classifications2020.pdf"
+              }
+            }
+          },
+          {
+            "id": "34b8423eb3c25744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/57 - Manifolds and cell complexes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bb9ae18a12d6922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/An introduction to  smooth manifold theory via artificial neural networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/About us/About us.md",
+                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/57 - Manifolds and cell complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/About us/About us.md",
+                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/57 - Manifolds and cell complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/About us/About us.md"
+                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/57 - Manifolds and cell complexes.md"
               }
             }
           }
@@ -157,21 +191,30 @@
   },
   "active": "7bf06b2144d4babc",
   "lastOpenFiles": [
+    "Krypton/Content/Mathematics/Fundamental Mathematics/Pure Mathematics.md",
+    "Krypton/Content/Mathematics/Mathematics.md",
+    "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/57 - Manifolds and cell complexes.md",
+    "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/An introduction to  smooth manifold theory via artificial neural networks.md",
+    "Krypton/Content/Mathematics/Classification System/classifications2020.pdf",
+    "Krypton/Content/Mathematics/Applied Mathematics/Applied Mathematics.md",
+    "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/57_Z_25",
+    "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes",
+    "68 - Computer science.md",
+    "Krypton/Content/Mathematics/Applied Mathematics/68 - Computer Science/Di.md",
+    "Krypton/Content/Mathematics/Applied Mathematics/68 - Computer Science",
+    "Krypton/Content/Mathematics/Fundamental Mathematics/52 - Differential Geometry/Diff.md",
+    "Krypton/Content/Mathematics/Fundamental Mathematics/52 - Differential Geometry",
+    "Krypton/About us/About us.md",
     "Krypton/Contacts/Contacts.md",
     "README.md",
     "Krypton/Support Krypton/Support Krypton.md",
     "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
-    "Krypton/About us/About us.md",
-    "Krypton/Content/Mathematics/Fundamental Mathematics/Pure Mathematics.md",
-    "Krypton/Content/Mathematics/Mathematics.md",
     "Krypton/Content/Data Science/Data science.md",
-    "Krypton/Content/Mathematics/Applied Mathematics/Applied Mathematics.md",
     "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
     "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
     "Krypton/Strategy/Action Plan.md",
     "Krypton/Content/Science",
     "Krypton/Content/Data Science",
-    "Krypton/Content/Mathematics/Classification System/classifications2020.pdf",
     "Krypton/Images/Step_1.png",
     "Krypton/Images/Open_Folder.png",
     "Krypton/Images/Nome.jpg",
@@ -188,12 +231,6 @@
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Tópicos de Matemática em Licenciatura.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/10 ano.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/12 ano/12 ano.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Aplicada/Licenciatura/Licenciatura - Matemática Aplicada.md",
-    "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/11 ano/11 ano.md",
-    "Topological Minimal.md",
-    "Krypton/Mathematicians in History/Pythagoras/Pythagoras.md",
     "Krypton/Mathematicians in History/Pythagoras/pythagoras-4.jpg"
   ]
 }
