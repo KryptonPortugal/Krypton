@@ -13,29 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/Pure Mathematics.md",
+                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/An introduction to  smooth manifold theory via artificial neural networks.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a02d231c117129e5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Krypton/Content/Mathematics/Classification System/classifications2020.pdf"
-              }
-            }
-          },
-          {
-            "id": "0bb9ae18a12d6922",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Krypton/Content/Mathematics/Classification System/classifications2020.pdf"
               }
             }
           }
@@ -113,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/Pure Mathematics.md",
+                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/An introduction to  smooth manifold theory via artificial neural networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/Pure Mathematics.md",
+                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/An introduction to  smooth manifold theory via artificial neural networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/Pure Mathematics.md"
+                "file": "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/An introduction to  smooth manifold theory via artificial neural networks.md"
               }
             }
           }
@@ -177,11 +157,11 @@
   },
   "active": "7bf06b2144d4babc",
   "lastOpenFiles": [
-    "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/An introduction to  smooth manifold theory via artificial neural networks.md",
     "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/57 - Manifolds and cell complexes.md",
-    "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes",
-    "Krypton/Content/Mathematics/Classification System/classifications2020.pdf",
     "Krypton/Content/Mathematics/Fundamental Mathematics/Pure Mathematics.md",
+    "Krypton/Content/Mathematics/Classification System/classifications2020.pdf",
+    "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes/An introduction to  smooth manifold theory via artificial neural networks.md",
+    "Krypton/Content/Mathematics/Fundamental Mathematics/57 - Manifolds and cell complexes",
     "Krypton/Content/Data Science/Data science.md",
     "Krypton/Content/Data Science",
     "Krypton/Content/Mathematics/Mathematics.md",
