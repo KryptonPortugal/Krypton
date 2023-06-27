@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Krypton/About us/About us.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Krypton/About us/About us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Krypton/About us/About us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Krypton/About us/About us.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "7bf06b2144d4babc",
   "lastOpenFiles": [
+    "Krypton/Contacts/Contacts.md",
+    "README.md",
     "Krypton/Support Krypton/Support Krypton.md",
     "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
     "Krypton/About us/About us.md",
@@ -177,7 +179,6 @@
     "Krypton/Images/Final_Result.png",
     "Krypton/Images/Logo.jpg",
     "Krypton/FAQ/FAQ.md",
-    "Krypton/Contacts/Contacts.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Licenciatura - Matemática Pura.md",
     "Krypton/Authors/Authors.md",
     "Krypton/Authors/People Pages/Tiago Veríssimo 0001.md",
@@ -191,7 +192,6 @@
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/12 ano/12 ano.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Aplicada/Licenciatura/Licenciatura - Matemática Aplicada.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/11 ano/11 ano.md",
-    "README.md",
     "Topological Minimal.md",
     "Krypton/Mathematicians in History/Pythagoras/Pythagoras.md",
     "Krypton/Mathematicians in History/Pythagoras/pythagoras-4.jpg"

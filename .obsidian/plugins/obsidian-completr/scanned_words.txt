@@ -1233,6 +1233,7 @@ SUUU
 Sii
 SWW
 SKZZ
+Science
 criar
 consumo
 conhecimentos
@@ -5450,6 +5451,7 @@ DPr
 DDDH
 DDdh
 DDDDDDDDD
+Data
 Criadores
 Consumidores
 Conteudo
