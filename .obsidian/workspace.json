@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd9b622e6aba5f55",
+        "id": "5e6a90c5099c1aea",
         "type": "tabs",
         "children": [
           {
-            "id": "7ad653ffe715d2a8",
+            "id": "7bf06b2144d4babc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT/Cálculo - PT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f58e84293620561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Licenciatura - Matemática Pura.md",
+                "file": "Krypton/Content/Data Science/Data science.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7ecaabe35db97da6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT/Cálculo - PT.md",
+                "file": "Krypton/Content/Data Science/Data science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT/Cálculo - PT.md",
+                "file": "Krypton/Content/Data Science/Data science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT/Cálculo - PT.md"
+                "file": "Krypton/Content/Data Science/Data science.md"
               }
             }
           }
@@ -150,46 +146,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7ad653ffe715d2a8",
+  "active": "7bf06b2144d4babc",
   "lastOpenFiles": [
+    "Krypton/Content/Mathematics/Fundamental Mathematics/Pure Mathematics.md",
+    "Krypton/Content/Data Science/Data science.md",
+    "Krypton/Content/Mathematics/Mathematics.md",
+    "Krypton/Content/Mathematics/Applied Mathematics/Applied Mathematics.md",
+    "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
+    "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
+    "Krypton/Support Krypton/Support Krypton.md",
+    "Krypton/Strategy/Action Plan.md",
+    "Krypton/Content/Science",
+    "Krypton/Content/Data Science",
+    "Krypton/Content/Mathematics/Classification System/classifications2020.pdf",
+    "Krypton/Images/Step_1.png",
+    "Krypton/Images/Open_Folder.png",
+    "Krypton/Images/Nome.jpg",
+    "Krypton/Images/Logo e Nome.png",
+    "Krypton/Images/Final_Result.png",
+    "Krypton/Images/Logo.jpg",
+    "Krypton/FAQ/FAQ.md",
+    "Krypton/Contacts/Contacts.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Licenciatura - Matemática Pura.md",
+    "Krypton/Authors/Authors.md",
+    "Krypton/Authors/People Pages/Tiago Veríssimo 0001.md",
+    "Krypton/About us/Tiago Veríssimo and Duarte Medeiros.md",
+    "Krypton/About us/About us.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT/Cálculo - PT.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT/Pré-Requisitos/Pré-Requisitos.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT/Pré-Requisitos",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Pura/Licenciatura/Cálculo-PT",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Matemática - Português.md",
-    "Krypton/Krypton Ecosystem/Entry Guide to Krypton.md",
-    "Krypton/Krypton Ecosystem/Krypton ecosystem.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Tópicos de Matemática em Licenciatura.md",
-    "Krypton/Images/Final_Result.png",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/10 ano/10 ano.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/12 ano/12 ano.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Superior/Matemática Aplicada/Licenciatura/Licenciatura - Matemática Aplicada.md",
     "Krypton/Mathematical Content/Mathematics - Portuguese - Portugal/Ensino Secundário/11 ano/11 ano.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Applied Graduate Mathematics.md",
-    "Krypton/Authors/People Pages/Tiago Veríssimo 0001.md",
     "README.md",
     "Topological Minimal.md",
-    "Krypton/Support Krypton/Support Krypton.md",
-    "Krypton/Strategy/Action Plan.md",
     "Krypton/Mathematicians in History/Pythagoras/Pythagoras.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Graduate Mathematics.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Pure Graduate Mathematics/Pure Graduate Mathematics.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Pure Graduate Mathematics/Differential Geometry/52 - Differential geometry.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Classification System/classifications2020.pdf",
-    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68 - Computer science.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Computer Science/68-01/MIDL - TV - 0001/Mathematical Introduction to Deep Learning - Tiago Veríssimo - 0001.md",
-    "Krypton/Mathematical Content/Graduate Mathematics/Applied Graduate Mathematics/Dynamical Systems and Ergodic Theory/37-01/IDS - TV - 0001/An introduction to dynamical systems - Tiago Veríssimo - 0001.md",
-    "Topological Transitive.md",
     "Krypton/Mathematicians in History/Pythagoras/pythagoras-4.jpg"
   ]
 }

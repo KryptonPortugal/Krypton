@@ -7,26 +7,6 @@ Like any *Open-Source* project, Krypton gets stronger the more active interventi
 
 - Mathematical Content Creator - Persons responsible for disseminating practical or theoretical mathematical content.
 
-- Auxiliary Content Creator - Persons responsible for producing multimedia content and programs that support mathematical content.
-
-- Content Creator on Social Networks - People responsible for managing content on social networks
-
-Each of these creative sections typically involves mathematics, but in very different ways.
-
-All of these positions together create the [[Krypton ecosystem]], we believe this ecosystem will have a major impact on the future of knowledge transmission.
-
-
 #### Current action
 
-Krypton intends to develop mathematical content, auxiliary content to mathematics and content on social networks in parallel in the following areas:
-
-- High school and below
-
-- Higher Education at Bachelor's level
-
-- Higher Education beyond Bachelor´s level
-
-
-#### Future action
-
-Krypton intends to expand to other areas of knowledge beyond mathematics, we will be open as a platform for community action to understand what the next areas of action will be, after all, the project belongs to everyone.
+Krypton intends to develop content in the areas of Data science, Mathematics and Science.

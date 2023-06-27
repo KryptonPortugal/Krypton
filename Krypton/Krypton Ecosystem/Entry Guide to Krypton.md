@@ -1,49 +1,4 @@
-This page is intended to be an extensive tutorial on how to integrate the Krypton project into various functions.
-In case of any question you can either send us an email or just join the discord, both are in the [[Contacts]].
-
-**Remark:**
-The master branch will be published to the website by the internal team of Krypton so that colaborators only need to care about the creation of contents in the GitHub repository.
-
-### There are two ways you can contribute to Krypton 
-
-#### Not using Github
-
-If you do not want to bother about how to use GitHub and Obsidian and just want only to produce mathematical content, this is the best solution for you.
-
-Via this method you can :
-- Contribute with written mathematical document
-- Contribute with social media content
-
-##### How to do a mathematical contribution ?
-
-###### Written mathematical content.
-You should send us an email to kryptonportugal@gmail.com with the following data:
-
-- Author name
-- Section of the website you want to contribute
-- Using the classification system of that section describe where you want to publish your file in the website
-- Tex project folder of the file you are sending (In case of mathematical written content)
-- Sends us the social media content in a folder.
-
-That is it !
-After you send us an e-mail we will undergone a period of review and ww will either give you or not some sugestions on your contribution. We will always notify you via the e-mail you used in either situation.
-
-###### Auxiliar Mathematical content
-You should send us an email to kryptonportugal@gmail.com with the following data:
-
-- Author name
-- Section of the website you want to contribute
-- Specify the document/page you want to put auxiliar mathematical content in
-- The compiled auxililar content and if you wish the code that you used to produce that content, so that we can publish it in our website and GitHub !
-
-That is it !
-After you send us an e-mail we will undergone a period of review and will either give you or not some sugestions on you contribution. We will always notify via the e-mail you used in either situation.
-
-
-
-### Using GitHub
-
-If you want to get into full grips with the Krypton Ecossystem and assume roles besides creating mathematical content, this is the method that you should use.
+If you want to get into full grips with the Krypton Ecosystem and assume roles in creating content, this is the method that you should use.
 
 With this method you can :
 - Produce mathematical content
@@ -126,6 +81,7 @@ The final result should look something like this
 ![[Final_Result.png]]
 
 If you want to make alterations in the project make sure to learn how to work with GitHub via the GitHUb Desktop. This can be a steep learning curve but it is totally worth the effort.
+
 If you want to do so, check out this website:
 https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop
 

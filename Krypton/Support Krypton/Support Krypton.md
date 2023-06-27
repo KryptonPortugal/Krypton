@@ -3,7 +3,7 @@ You can contribute to the project via the following ways:
 
 #### Monetary Contribution:
 You can contribute through *PayPal* or even *Ethereum* (ETH).
-The content in Krypton is open because Krypton lets people decide how much value do they percieve from Krypton, if you felt value from it you can contribute via the following ways. 
+The content in Krypton is open because Krypton lets people decide how much value do they perceive from Krypton, if you felt value from it you can contribute via the following ways. 
 
 #### Cryptocurrency
 If you want to contribute *Ethereum* (ETH) use this address:
@@ -12,7 +12,3 @@ If you want to contribute *Ethereum* (ETH) use this address:
 #### Paypal
 If you want to make a contribution via Paypal:
 https://paypal.me/KryptonPortugal?country.x=PT&locale.x=pt_PT
-
-### Content production:
-If you have a specific skill or knowledge that could be useful to the project, consider offering your services for the cause of knowledge sharing.
-For further interaction see [[Entry Guide to Krypton]].

@@ -1,4 +1,4 @@
-Areas of graduate Applied mathematics:
+Areas of Applied mathematics:
 
 - [[31 - Potential theory]]
 - [[34 - Ordinary differential equations]]
