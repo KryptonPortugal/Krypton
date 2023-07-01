@@ -2,7 +2,7 @@
 
 This project has the objective of spreading mathematical contents in an open-source way to everyone.
 
-The colaborative structure of the Krypton project is still being made, however you can already check some usefull links of the webpage of the project.
+Check our project website, where we expose all contents and related informations.
 
 ## About the Project.
 https://publish.obsidian.md/kryptonportugal/Krypton/About+us/About+us
