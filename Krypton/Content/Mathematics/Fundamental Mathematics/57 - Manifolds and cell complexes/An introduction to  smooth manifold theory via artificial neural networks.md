@@ -336,5 +336,5 @@ This sets up a pretty interesting challenge: **how do you maximize the dimension
 
 Now, that's a tough nut to crack. But guess what? We're going to tackle this head-on in the next section. So, don't go anywhere – the best is yet to come!
 
-## Parameter space
+## The Parameter space
 
