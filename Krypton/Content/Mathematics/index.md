@@ -1,3 +1,7 @@
+---
+---
+
+
 ### Content Exposition
 - [[Pure Mathematics]](Fundamental Mathematics/)
 - [[Applied Mathematics]](Applied Mathematics/)

@@ -1,3 +1,6 @@
+---
+---
+
 ### Why should I contribute to Krypton?
 
 -   Contributing to an open source project that exposes mathematical content can help to make knowledge more widely accessible and reliable.
