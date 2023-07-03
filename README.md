@@ -5,16 +5,16 @@ This project has the objective of spreading mathematical contents in an open-sou
 Check our project website, where we expose all contents and related informations.
 
 ## About the Project.
-https://publish.obsidian.md/kryptonportugal/Krypton/About+us/About+us
+https://kryptonmathematics.com/Krypton/About+us/About+us
 
 ## Krypton Ecossystem
-https://publish.obsidian.md/kryptonportugal/Krypton/Krypton+Ecosystem/Krypton+ecosystem
+https://kryptonmathematics.com/Krypton/Krypton+Ecosystem/Krypton-ecosystem
 
 ## Action plan
-https://publish.obsidian.md/kryptonportugal/Krypton/Strategy/Action+plan
+https://kryptonmathematics.com/Krypton/Strategy/Strategy
 
 ## Support Krypton
-https://publish.obsidian.md/kryptonportugal/Krypton/Support+Krypton/Support+Krypton
+https://kryptonmathematics.com/Krypton/Support+Krypton/Support+Krypton
 
 ## Contacts
-https://publish.obsidian.md/kryptonportugal/Krypton/Contacts/Contacts
+https://kryptonmathematics.com/Krypton/Contacts/Contacts
