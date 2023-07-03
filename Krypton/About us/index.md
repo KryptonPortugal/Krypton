@@ -4,8 +4,8 @@ Welcome to the content section of my website. Here you can find various material
 
 ## Subjects
 
-- [About us](Aboutus.md)
-- [Tiago Veríssimo and Duarte Medeiros](TiagoVeríssimoandDuarteMedeiros.md)
+- [About us](About us.md)
+- [Tiago Veríssimo and Duarte Medeiros](Tiago Veríssimo and Duarte Medeiros.md)
 
 Feel free to explore the content and reach out if you have any questions.
 
