@@ -5,6 +5,14 @@ relative_links:
   enabled: true
   collections: true
 
+navbars_links:
+  About Us: /About-Us
+  Contacts: /Contacts
+  Content: /Content
+  FAQ: /FAQ
+  Krypton-Ecosystem: /Krypton-Ecosystem
+  Strategy: /Strategy
+
 include:
   - README.md
 
