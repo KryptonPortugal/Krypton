@@ -1,6 +1,6 @@
 ### Content Exposition
-- [[Pure Mathematics]](FundamentalMathematics/)
-- [[Applied Mathematics]](AppliedMathematics/)
+- [[Pure Mathematics]](Fundamental Mathematics/)
+- [[Applied Mathematics]](Applied Mathematics/)
 
 ### Managers of the page
 This page is currently managed by [[Tiago Veríssimo and Duarte Medeiros]].
