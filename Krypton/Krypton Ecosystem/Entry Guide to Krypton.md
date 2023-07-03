@@ -1,7 +1,3 @@
----
----
-
-
 If you want to get into full grips with the Krypton Ecosystem and assume roles in creating content, this is the method that you should use.
 
 With this method you can :

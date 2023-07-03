@@ -1,5 +1,3 @@
----
----
 
 ### What is Krypton ?
 Krypton is an *Open-Source* project that aims to create an open source blog about mathematics, be it applied or fundamental and Data Science.

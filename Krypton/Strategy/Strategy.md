@@ -1,6 +1,3 @@
----
----
-
 ### Goal
 Krypton believes that today there are many inefficiencies in the process of transferring knowledge, unjustified costs and, above all, a great lack of collaboration and dynamism in the dissemination and creation of written content.
 
