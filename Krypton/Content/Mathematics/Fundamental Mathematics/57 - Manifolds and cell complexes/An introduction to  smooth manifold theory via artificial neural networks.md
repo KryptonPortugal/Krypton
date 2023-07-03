@@ -1,4 +1,4 @@
-#krypton #Tiago_Veríssimo 
+#Tiago_Veríssimo 
 
 THIS NOTES ARE UNDER DEVELOPMENT.
 
@@ -16,9 +16,9 @@ This exposition requires the reader to have a basic understanding of:
 - General Topology
 - Real analysis
 - Probability Theory
-- Linear AL
+- Linear Algebra
 
-# Introduction to manifolds
+## Introduction to manifolds
 
 The reader should be aware that there will be an annoying amount of definitions at the beginning, however to do geometry we need to be conceptually equipped, after this the number of new concepts will eventually stabilise.
 
@@ -337,4 +337,116 @@ This sets up a pretty interesting challenge: **how do you maximize the dimension
 Now, that's a tough nut to crack. But guess what? We're going to tackle this head-on in the next section. So, don't go anywhere – the best is yet to come!
 
 ## The Parameter space
+
+We consider now a neural network with $L-1$ hidden layers (the layers 0 and $L$ are reserved for the input and output layers, respectively). As usual, we denote by $d^{(\ell)}$ the number of neurons in the $\ell$ th layer. For simplicity reasons, we choose $d^{(0)}=d^{(L)}=1$. Since the number of hidden neurons is equal to $N$, we have
+
+$$
+\sum_{\ell=1}^{L-1} d^{(\ell)}=N \tag{2}
+$$
+
+Imagine you're an architect, and you've been handed the task of designing the most colossal and intricate castle. Your castle is special - it's made of building blocks called "neurons", and you can arrange them in multiple layers.
+
+Now, think of the number of neurons in each layer as $d^{(\ell)}$ where $\ell$ represents the layer number. Layer 1 might have 100 neurons, layer 2 might have 200, and so on. The layers are connected by magical bridges known as "weights." The number of these magical bridges between layer $\ell-1$ and layer $\ell$ is like multiplying the number of neurons in each of those layers, $d^{(\ell-1)} \times d^{(\ell)}$. These weights help the information flow through the castle from one layer to another.
+
+Additionally, each neuron has a special elf called a "bias" living inside. These elves tweak and tune the information as it passes through. There is one elf in each neuron, so if there are $N$ hidden neurons, there are $N$ biases.
+
+So, how gigantic can we make this castle? The total strength and complexity of your castle is given by the sum of all magical bridges (weights) and the number of elves (biases). Mathematically, that's:
+
+$$
+d^{(0)} d^{(1)}+d^{(1)} d^{(2)}+\cdots+d^{(\ell-1)} d^{(\ell)}+\cdots+d^{(L-1)} d^{(L)}+N .
+$$
+
+Now, here’s the quest: You have to figure out how many layers ($L$) your castle should have, and how many neurons ($d^{(\ell)}$) should be in each of these layers, so that your castle is at its mightiest, i.e., the expression above reaches its peak!
+
+But beware, an ancient spell $(2)$ limits the power you can unleash. So, put on your wizard hat and calculate wisely to build the grandest castle (neural network) the realm has ever seen!
+
+Imagine you are an artist, and your canvas is a large rectangle, let's call it $\mathcal{R}$. You've been given a set of colorful building blocks, each representing a layer of neurons in a neural network. You get to create an amazing mosaic within this rectangle using smaller rectangles made of your building blocks.
+
+Each of the smaller rectangles represents the connection between two layers in a neural network. The area of these rectangles is represented by $d^{(\ell-1)} d^{(\ell)}$. It's like combining the powers of two adjacent layers of neurons!
+
+Now picture this: you start with a rectangle made of building blocks with dimensions $d^{(0)} \times d^{(1)}$. This is your first piece of the mosaic. Then, you keep adding more pieces to your artwork, each new rectangle having dimensions $d^{(\ell-1)} \times d^{(\ell)}$. As you add these rectangles, imagine them fitting together like puzzle pieces, as shown in the mystical.
+
+INSERT IMAGE OF SQUARE
+
+Now, here's the twist: the longer sides of the even-numbered rectangles are standing tall, while the longer sides of the odd-numbered rectangles are lying flat. Your mosaic within rectangle $\mathcal{R}$ is taking a captivating form!
+
+The width of your main canvas, $\mathcal{R}$, is equal to the sum of the dimensions of the odd-numbered rectangles - $d^{(1)}+d^{(3)}+\cdots$, and the height is the sum of the dimensions of the even-numbered ones - $d^{(0)}+d^{(2)}+\cdots$.
+
+However, there's an ancient spell, constraint $(2)$, that bounds your creativity. This spell dictates that the sum of the dimensions (width and height) of your canvas $\mathcal{R}$ must be constant, equal to $N$.
+
+Your challenge, as the artist, is to arrange these rectangles within $\mathcal{R}$ in such a way that the combined area of all the smaller rectangles is maximized, while still abiding by the ancient spell.
+
+A **combinatorial argument** shows that the optimal construction occurs only when we have $2$ hidden layers.
+
+## Optimal Parameters Values
+
+Let's consider a training dataset composed of pairs $\left\{\left(x_1, z_1\right),\left(x_2, z_2\right), \ldots,\left(x_n, z_n\right)\right\}$. 
+Here, for each input $x_i$, there is a corresponding one-dimensional output $y_i$ from the network, where $i$ ranges from 1 to $n$. The output $y_i$ is a function of the parameter vector $\theta$, which belongs to $\mathbb{R}^r$, i.e., $y_i = y_i(\theta)$. 
+
+Consequently, the vector $\mathbf{y}^T$, which is composed of the outputs $\left(y_1, \ldots, y_n\right)$, resides in $\mathbb{R}^n$ and is parameterized by $\theta$. 
+This vector defines a manifold $\mathcal{S}$ within $\mathbb{R}^n$, which has a dimension of $r$. Specifically, this manifold $\mathcal{S}$ can be visualized as an $r$-dimensional surface within the n-dimensional space $\mathbb{R}^n$.
+
+The goal of training the network is to find the best set of parameters, denoted as $\theta^*$, such that the distance between the vector $\mathbf{z}^T$ (composed of $\left(z_1, \ldots, z_n\right)$) and the manifold $\mathcal{S}$ is minimized. 
+This can be mathematically represented as:
+$$
+\theta^*=\arg \min _\theta \operatorname{dist}(\mathbf{z}, \mathcal{S})=\arg \min _\theta\|\mathbf{z}-\mathbf{y}(\theta)\|,
+$$
+where the distance is calculated using the Euclidean metric.
+In geometric terms, this means that the vector $\mathbf{y}\left(\theta^*\right)$ is the orthogonal projection of $\mathbf{z}$ onto the manifold $\mathcal{S}$. 
+
+### Example
+
+Certainly, let's maintain the rigor while still engaging the mathematical audience.
+
+Let’s unravel the intricacies of neural network architectures with the legendary MNIST dataset in the spotlight.
+This dataset, with its 55,000 training examples, each featuring a flattened 784-dimensional input vector ($28 \times 28$ image) and a 10-dimensional output vector (representing the 10 digit classes), offers an intriguing playground for our mathematical explorations.
+
+*Contextualizing the Manifold:* Consider the output manifold $\mathcal{S}$, which resides in the colossal numerical space $\mathbb{R}^{550,000}$ (resulting from $55,000 \times 10$). The dimensionality of this manifold is key to understanding the behaviour of different neural network architectures.
+
+*Architectures Under Examination:* We’ll analyse the dimensions of $\mathcal{S}$ for two distinct feedforward neural network architectures:
+1. *Single Hidden Layer:* (784-500-10) - 500 neurons in one hidden layer.
+2. *Double Hidden Layers:* (784-250-250-10) - 250 neurons in each of the two hidden layers.
+
+*Dimensionality Dissected:*
+- In the *single hidden layer* architecture, the dimension of the output manifold $\mathcal{S}$ is $r = 784 \times 500 + 500 \times 10 + 500 = 397,500$. This is constituted by 784 weights from the input to the hidden layer, 500 biases, and $500 \times 10$ weights from the hidden layer to the output. The network exhibits an impressive accuracy of approximately 97.2%, with a test error of about 1.49, after empirical testing.
+- Moving on to the *double hidden layers* architecture, the dimension of the output manifold drops to $r = 784 \times 250 + 250 \times 250 + 250 \times 10 + 500 = 261,500$. With this configuration, the network achieves an accuracy of 96.5%, which is slightly lower than the single hidden layer network, and a higher test error, after empirical testing.
+
+*Optimization Alchemy:* These numerical marvels are not mere coincidences; they are the result of careful experimentation using 4,000 iterations and a batch size of 40. The Adam optimization algorithm, which is known for adaptively adjusting the learning rate, played a pivotal role. The cost function, which is the sum of squares errors, guided our optimization to seek minimal distances.
+
+*Conclusion:* Through this examination, we witness the intimate relationship between the dimensions of output manifolds and the efficacy of neural networks. It's a meticulous balance - understanding the mathematical structures behind these architectures is paramount to harnessing their full potential. Let this serve as a testament to the power and elegance of mathematics in neural networks! 
+
+
+## The Metric structure
+
+*The Metric Odyssey in Manifold $\mathcal{S}$:* Let's embark on an exquisite geometrical journey to bestow the manifold $\mathcal{S}$ with a structure that transcends the ordinary – a Riemannian metric. This metric will be our divine instrument for measuring distances between points and the angles between the ethereal tangent vectors in $\mathcal{S}$.
+
+*The Sublimity of $\mathcal{S}$:* Being a submanifold of the illustrious $\mathbb{R}^n$, with dimension $r$, $\mathcal{S}$ is graced with the natural metric inherited from the Euclidean grace of $\mathbb{R}^n$. Let $\theta_i$ represent the alchemy of network parameters, be it weights or biases. Our journey begins with the construction of the basic tangent vector fields to $\mathcal{S}$, bestowed by the partial derivatives with respect to the coordinates $\theta_i$:
+$$
+\xi_i=\frac{\partial \mathbf{y}}{\partial \theta_i}=\left(\frac{\partial y_1}{\partial \theta_i}, \ldots, \frac{\partial y_n}{\partial \theta_i}\right), \quad 1 \leq i \leq r.
+$$
+
+*The Tangent Space – A Tapestry of Vectors:* The tangent space at a point $\mathbf{y}$ in $\mathcal{S}$, denoted by $T_{\mathbf{y}} \mathcal{S}$, is a linear space woven by the threads of all basic tangent vectors at that point. This space thrives when $\mathcal{S}$ is a smooth manifold, maintaining a constant dimension $r$ at each point $\mathbf{y} \in \mathcal{S}$. The maximal rank condition encapsulates this constancy elegantly:
+$$
+\operatorname{rank}\left(\frac{\partial \mathbf{y}}{\partial \theta_i}\right)_i=r,
+$$
+asserting that the basic tangent vector fields are guardians of linear independence.
+
+*Where Smoothness Reigns:* With the maximal rank condition, we ensure that $\mathcal{S}$ is as smooth as the calmest sea, devoid of any corners or cusps. Now, imagine a tangent vector $v$ at $\mathbf{y}$, dancing in the tangent space $T_{\mathbf{y}} \mathcal{S}$. It is defined through an elegant linear combination:
+$$
+v=\sum_{i=1}^r v_i \frac{\partial \mathbf{y}}{\partial \theta_i},
+$$
+where $v_i=v_i(\theta)$ are the harmonic components of $v$.
+
+*The First Fundamental Form – A Metric Symphony:* The crowning jewel of our odyssey is the first fundamental form. It provides the natural metric structure of $\mathcal{S}$ with coefficients that sing the song of the inner product:
+
+$$
+g_{i j}(\mathbf{y})=\left\langle\xi_i, \xi_j\right\rangle= \sum_{k, l} g_{k l} (\mathrm{~d} x^k \otimes \mathrm{d} x^l )(\xi_i,\xi_j) =  \left(\frac{\partial \mathbf{y}}{\partial \theta_i}\right)^T \frac{\partial \mathbf{y}}{\partial \theta_j}=\sum_{k=1}^n \frac{\partial y_k}{\partial \theta_i} \frac{\partial y_k}{\partial \theta_j}.
+$$
+
+The second equality uses the tensor algebra definition of the metric tensor to compute the components only using local information, to further refer check [Riemannian manifold - Wikipedia](https://en.wikipedia.org/wiki/Riemannian_manifold)
+
+And thus, with the first fundamental form, our manifold $\mathcal{S}$ is adorned with a Riemannian metric, and our geometric odyssey reaches its crescendo. 
+
+With the first fundamental form defined we can start to make measures about distance and lenghts, we will now measure the lenghts of the vectors 
+
 

@@ -1,8 +1,5 @@
 
-### Series being developed:
-- Part of the Mathematics in Artificial Intelligence series - [[An introduction to  smooth manifold theory via artificial neural networks]] - #Tiago_Veríssimo 
-
-Krypton currently has the series **Mathematics in Artificial Intelligence** being developed:
+## Projects being developed by Krypton
 
 #### Roadmap for "Mathematics in Artificial Intelligence" Series
 
@@ -48,7 +45,6 @@ Krypton currently has the series **Mathematics in Artificial Intelligence** bein
 - Title: Manifold theory via artificial neural networks
 - Content: Explore the connections of smooth manifolds with the behaviour of neural networks via ANN
 
-
 ##### Part 4: Specialized Techniques
 
 ###### 9. Reinforcement Learning Mathematics
@@ -73,7 +69,8 @@ Conclusion
 This roadmap provides a structured approach to cover essential mathematical topics in AI. Each part can consist of one or more blog posts, and you can also include practical examples, applications, and exercises for readers. This will not only provide a solid foundation in the mathematics behind AI but also engage your readers in an interactive learning experience.
 
 
+## Expositions being written
 
-### How to contribute
-If you want to contribute to the project make sure to join either the discord in the contacts or do an independent contribution via GitHub, we will add your contribution to this page.
+Expositions being written developed:
 
+- Part of the Mathematics in Artificial Intelligence series - [[An introduction to  smooth manifold theory via artificial neural networks]] - #Tiago_Veríssimo 
