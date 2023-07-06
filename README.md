@@ -2,7 +2,24 @@
 
 This project has the objective of spreading mathematical contents in an open-source way to everyone.
 
-Check our project website, where we expose all contents and related informations.
+This document explains how to contribute to the Krypton project in a very concise way.
+
+There are two ways to contribute to this project:
+
+## Non Technical
+
+Join our discord and introduce yourself by writing what are your objectives in the project in the "Welcome" text chat, we will guide you after in a non-technical way to help you to contribute to the project.
+Join us: https://discord.gg/FGwdPmAXes
+
+## Technical
+
+Use our GitHub project online and contribute directly to Krypton.
+See this guide on how to contribute to GitHub projects: [Contributing to projects - GitHub Docs](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+
+### Remarks
+Note that when you do any type of mathematical contribution it must be as a markdown file otherwise it won't be merged in the main branch.
+
+The informations in our main branch is exposed in our website [Krypton](https://kryptonmathematics.com/Krypton/Content/Mathematics/Mathematics) if you want to check further about this information make sure to check the following links:
 
 ## Projects in Krypton
 You might be specially interested in seeing what projects we are doing right now or if you want to contribute with some project check this link:
