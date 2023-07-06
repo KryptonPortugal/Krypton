@@ -14,10 +14,10 @@ If you want to check our website where we publish this markdown files or see mor
 https://kryptonmathematics.com/Krypton/About+us/About+us
 
 ## Krypton Ecossystem
-https://kryptonmathematics.com/Krypton/Krypton+Ecosystem/Krypton-ecosystem
+https://kryptonmathematics.com/Krypton/Krypton+Ecosystem/Krypton+ecosystem
 
 ## Action plan
-https://kryptonmathematics.com/Krypton/Strategy/Strategy
+https://kryptonmathematics.com/Krypton/Strategy/Action+Plan
 
 ## Support Krypton
 https://kryptonmathematics.com/Krypton/Support+Krypton/Support+Krypton
