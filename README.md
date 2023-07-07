@@ -14,7 +14,7 @@ Join us: https://discord.gg/FGwdPmAXes
 ## Technical
 
 Use our GitHub project online and contribute directly to Krypton.
-See this guide on how to contribute to GitHub projects: [Contributing to projects - GitHub Docs](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+See this guide on how to contribute to GitHub projects: [Contributing to projects - GitHub Docs](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) or check this [youtube](https://www.youtube.com/watch?v=CML6vfKjQss&ab_channel=AskCloudArchitech) video for a vey speedy introduction on how to contribute.
 
 ### Remarks
 Note that when you do any type of mathematical contribution it must be as a markdown file otherwise it won't be merged in the main branch.
