@@ -35,7 +35,7 @@ This might not seem like very reasonable to have as a definition at first sight,
 
 A good example that the reader should have in mind when thinking about manifolds is a sphere $S^2$ as seen in the image
 
-![[Pasted image 20230628001214.png|300]]
+![[Pasted image 20230628001214.png|200]]
 
 
 Turns out that we are very much interested in objects like the sphere which are in the geometrical sense smooth, think of no "pointy" things or sharp corners, again think on the sphere, objects with the qualitative aspects of the sphere are called **smooth manifolds**.
